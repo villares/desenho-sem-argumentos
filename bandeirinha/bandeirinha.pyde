@@ -1,8 +1,9 @@
 
 def setup():
-    size(800, 800)
+    size(500, 500)
     strokeWeight(15)
-    bandeirinha(400, 400, 400)
+    background(128)
+    bandeirinha(250, 250, 400)
 
 def bandeirinha(x, y, tamanho):
     """ Bandeirinha na posição x, y com largura e altura 'tamanho' """
