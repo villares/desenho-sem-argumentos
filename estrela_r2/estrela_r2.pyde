@@ -8,17 +8,12 @@ def estrela(x_centro, y_centro, num_pontas, raio_a, raio_b):
     Desenha uma estrela com np pontas
     raio a e raio b são os raios internos e das pontas
     """
-    n = num_pontas * 2 # a forma é um polígono o dobro de pontos que as pontas
-    inc = radians(360. / n) # ângulo de eincremento entre os pontos
+    n = num_pontas * 2 # o dobro de pontos que o número de pontas
+    ang = radians(360. / n) # divide 360 graus por n e converte em radianos
     beginShape() # começa a desenhar a forma
-    ang = 0 # começando com o ângulo 0
-    while ang < TWO_PI:
-        x = x_centro + sin(ang) * raio_a
-        y = y_centro + cos(ang) * raio_a
+    for i in range(n):
+        r = raio_a if i % 2 == 0 else raio_b 
+        x = x_centro + sin(ang * i) * r
+        y = y_centro + cos(ang * i) * r
         vertex(x, y)
-        ang += inc
-        x = x_centro + sin(ang) * raio_b
-        y = y_centro + cos(ang) * raio_b
-        vertex(x, y)
-        ang += inc
     endShape(CLOSE) # encerra uma forma fechada
