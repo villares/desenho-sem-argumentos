@@ -5,11 +5,11 @@ def setup():
 
 def estrela(x_centro, y_centro, num_pontas, raio_a, raio_b):
     """
-    Desenha uma estrela com np pontas
-    raio a e raio b são os raios internos e das pontas
+    Desenhe uma estrela em x_centro, y_centro com num_pontas
+    raio_a e raio_b são os raios internos e das pontas
     """
-    n = num_pontas * 2 # a forma é um polígono o dobro de pontos que as pontas
-    inc = radians(360. / n) # ângulo de eincremento entre os pontos
+    n = num_pontas * 2 # a forma tem o dobro de pontos que pontas
+    inc = radians(360. / n) # ângulo (incremento) entre os pontos
     beginShape() # começa a desenhar a forma
     ang = 0 # começando com o ângulo 0
     while ang < TWO_PI:
@@ -21,4 +21,4 @@ def estrela(x_centro, y_centro, num_pontas, raio_a, raio_b):
         y = y_centro + cos(ang) * raio_b
         vertex(x, y)
         ang += inc
-    endShape(CLOSE) # encerra uma forma fechada
+    endShape(CLOSE) # encerra a forma fechando no primeiro ponto
