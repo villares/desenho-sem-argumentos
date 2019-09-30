@@ -20,3 +20,4 @@ def desenho():
     casinha(quarto, quarto, 200)
     grade(quarto, metade + quarto, 4, 220)
     estrela(metade + quarto, metade + quarto, 7, 100, 50)
+    

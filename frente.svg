@@ -30,19 +30,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1281"
-     inkscape:window-height="756"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
      id="namedview4"
      showgrid="false"
      units="mm"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.34206845"
-     inkscape:cx="561.25984"
-     inkscape:cy="793.70079"
-     inkscape:window-x="57"
-     inkscape:window-y="20"
-     inkscape:window-maximized="0"
+     inkscape:zoom="1.2957752"
+     inkscape:cx="572.71814"
+     inkscape:cy="557.34631"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
      inkscape:current-layer="g10"><sodipodi:guide
        position="374.17325,763.54035"
        orientation="1,0"
@@ -59,10 +59,6 @@
        position="26.456667,1587.9021"
        orientation="0,1"
        id="guide6941"
-       inkscape:locked="false" /><sodipodi:guide
-       position="1122.5198,1557.7416"
-       orientation="0,1"
-       id="guide6943"
        inkscape:locked="false" /></sodipodi:namedview><g
      inkscape:groupmode="layer"
      id="layer1"
@@ -74,7 +70,8 @@
      transform="matrix(1.3333333,0,0,-1.3333333,0,1587.4015)"
      style="display:inline"><g
        id="g6822"
-       style="display:none"><g
+       style="display:none"
+       sodipodi:insensitive="true"><g
          style="display:inline"
          transform="translate(0,572.6552)"
          id="g12"><path
@@ -2346,134 +2343,180 @@
            inkscape:connector-curvature="0" /></g></g><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:10px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-       x="581.05499"
-       y="-1128.127"
+       x="299.86365"
+       y="-535.04504"
        id="text2337"
        transform="scale(1,-1)"><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-1128.127"
-         style="stroke-width:0.75"
-         id="tspan7341">def setup():</tspan><tspan
+         x="299.86365"
+         y="-535.04504"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';stroke-width:0.75"
+         id="tspan7341">&quot;&quot;&quot;</tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-1118.127"
-         style="stroke-width:0.75"
-         id="tspan7408">    size(500, 500)   # área de desenho</tspan><tspan
+         x="299.86365"
+         y="-525.04504"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';stroke-width:0.75"
+         id="tspan8093">Desenhe quatro estrelas diferentes</tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-1108.127"
-         style="stroke-width:0.75"
-         id="tspan7410">    strokeWeight(5)  # espessura do traço</tspan><tspan
+         x="299.86365"
+         y="-515.04504"
+         style="font-weight:normal;stroke-width:0.75"
+         id="tspan8095"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold'"
+   id="tspan8097">&quot;&quot;</tspan>&quot;</tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-1098.127"
-         style="stroke-width:0.75"
-         id="tspan7412">    estrela(125, 125, 12, 100, 75)  # estrela de 12 pontas</tspan><tspan
+         x="299.86365"
+         y="-505.04504"
+         style="font-weight:bold;stroke-width:0.75"
+         id="tspan8089" /><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-1088.127"
-         style="stroke-width:0.75"
-         id="tspan7414">    estrela(375, 125, 5, 100, 50)  # estrela de 5 pontas</tspan><tspan
+         x="299.86365"
+         y="-495.04483"
+         style="font-weight:bold;stroke-width:0.75"
+         id="tspan8091">def setup():</tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-1078.127"
-         style="stroke-width:0.75"
-         id="tspan7416">    estrela(125, 375, 7, 100, 50)  # estrela de 7 pontas</tspan><tspan
+         x="299.86365"
+         y="-485.04462"
+         style="font-weight:bold;stroke-width:0.75"
+         id="tspan7408">    size(500, 500)   <tspan
+   style="font-weight:normal"
+   id="tspan8306"># área de desenho</tspan></tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-1068.127"
-         style="stroke-width:0.75"
-         id="tspan7418">    estrela(375, 375, 9, 100, 30)  # estrela de 9 pontas</tspan><tspan
+         x="299.86365"
+         y="-475.0444"
+         style="font-weight:bold;stroke-width:0.75"
+         id="tspan7410">    strokeWeight(5)  <tspan
+   style="font-weight:normal"
+   id="tspan8308"># espessura do traço</tspan></tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-1058.127"
-         style="stroke-width:0.75"
+         x="299.86365"
+         y="-465.04422"
+         style="font-weight:bold;stroke-width:0.75"
+         id="tspan7412">    estrela(125, 125, 12, 100, 75)<tspan
+   style="font-weight:normal"
+   id="tspan8310"> # estrela de 12 pontas</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="299.86365"
+         y="-455.04401"
+         style="font-weight:bold;stroke-width:0.75"
+         id="tspan7414">    estrela(375, 125, 5, 100, 50)  <tspan
+   style="font-weight:normal"
+   id="tspan8312"># estrela de 5 pontas</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="299.86365"
+         y="-445.04379"
+         style="font-weight:bold;stroke-width:0.75"
+         id="tspan7416">    estrela(125, 375, 7, 100, 50)  <tspan
+   style="font-weight:normal"
+   id="tspan8314"># estrela de 7 pontas</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="299.86365"
+         y="-435.04358"
+         style="font-weight:bold;stroke-width:0.75"
+         id="tspan7418">    estrela(375, 375, 9, 100, 30)  <tspan
+   style="font-weight:normal"
+   id="tspan8316"># estrela de 9 pontas</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="299.86365"
+         y="-425.04337"
+         style="font-weight:bold;stroke-width:0.75"
          id="tspan7345">    </tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-1048.127"
-         style="stroke-width:0.75"
+         x="299.86365"
+         y="-415.04337"
+         style="font-weight:bold;stroke-width:0.75"
          id="tspan7347" /><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-1038.127"
-         style="stroke-width:0.75"
+         x="299.86365"
+         y="-405.04315"
+         style="font-weight:bold;stroke-width:0.75"
          id="tspan7349">def estrela(x_centro, y_centro, num_pontas, raio_a, raio_b):</tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-1028.127"
-         style="stroke-width:0.75"
-         id="tspan7351">    &quot;&quot;&quot;</tspan><tspan
+         x="299.86365"
+         y="-395.04294"
+         style="font-weight:bold;stroke-width:0.75"
+         id="tspan7351"> <tspan
+   style="font-weight:normal"
+   id="tspan8294">   &quot;&quot;&quot;</tspan></tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-1018.127"
-         style="stroke-width:0.75"
+         x="299.86365"
+         y="-385.04294"
+         style="font-weight:normal;stroke-width:0.75"
          id="tspan7353">    Desenhe uma estrela em x_centro, y_centro com num_pontas</tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-1008.127"
-         style="stroke-width:0.75"
+         x="299.86365"
+         y="-375.04294"
+         style="font-weight:normal;stroke-width:0.75"
          id="tspan7355">    raio_a e raio_b são raios dos pontos internos e pontas</tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-998.12695"
-         style="stroke-width:0.75"
+         x="299.86365"
+         y="-365.04294"
+         style="font-weight:normal;stroke-width:0.75"
          id="tspan7357">    &quot;&quot;&quot;</tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-988.12695"
-         style="stroke-width:0.75"
-         id="tspan7359">    n = num_pontas * 2 # o dobro de pontos totais que pontas</tspan><tspan
+         x="299.86365"
+         y="-355.04272"
+         style="font-weight:bold;stroke-width:0.75"
+         id="tspan7359"><tspan
+   style="font-weight:normal"
+   id="tspan8296"> </tspan>   n = num_pontas * 2 <tspan
+   style="font-weight:normal"
+   id="tspan8304"># pontos totais são dobro de pontas</tspan></tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-978.12695"
-         style="stroke-width:0.75"
-         id="tspan7361">    ang = radians(360. / n) # 360 graus / n em radianos</tspan><tspan
+         x="299.86365"
+         y="-345.04254"
+         style="font-weight:bold;stroke-width:0.75"
+         id="tspan7361">    ang = radians(360. / n) <tspan
+   style="font-weight:normal"
+   id="tspan8302"># 360 graus / n em radianos</tspan></tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-968.12695"
-         style="stroke-width:0.75"
-         id="tspan7363">    beginShape() # começa a desenhar a forma</tspan><tspan
+         x="299.86365"
+         y="-335.04233"
+         style="font-weight:bold;stroke-width:0.75"
+         id="tspan7363">    beginShape() <tspan
+   style="font-weight:normal"
+   id="tspan8300"># começa a desenhar a forma</tspan></tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-958.12695"
-         style="stroke-width:0.75"
+         x="299.86365"
+         y="-325.04211"
+         style="font-weight:bold;stroke-width:0.75"
          id="tspan7365">    for i in range(n):</tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-948.12695"
-         style="stroke-width:0.75"
+         x="299.86365"
+         y="-315.0419"
+         style="font-weight:bold;stroke-width:0.75"
          id="tspan7367">        r = raio_a if i % 2 == 0 else raio_b </tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-938.12695"
-         style="stroke-width:0.75"
+         x="299.86365"
+         y="-305.04169"
+         style="font-weight:bold;stroke-width:0.75"
          id="tspan7369">        x = x_centro + sin(ang * i) * r</tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-928.12695"
-         style="stroke-width:0.75"
+         x="299.86365"
+         y="-295.04147"
+         style="font-weight:bold;stroke-width:0.75"
          id="tspan7371">        y = y_centro + cos(ang * i) * r</tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-918.12695"
-         style="stroke-width:0.75"
+         x="299.86365"
+         y="-285.04126"
+         style="font-weight:bold;stroke-width:0.75"
          id="tspan7373">        vertex(x, y)</tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-908.12695"
-         style="stroke-width:0.75"
-         id="tspan7375">    endShape(CLOSE) # encerra fechando no primeiro ponto</tspan><tspan
+         x="299.86365"
+         y="-275.04108"
+         style="font-weight:bold;stroke-width:0.75"
+         id="tspan7375">    endShape(CLOSE) <tspan
+   style="font-weight:normal"
+   id="tspan8298"># encerra fechando no primeiro ponto</tspan></tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-898.12695"
-         style="stroke-width:0.75"
+         x="299.86365"
+         y="-265.04086"
+         style="font-weight:bold;stroke-width:0.75"
          id="tspan7377">    </tspan><tspan
          sodipodi:role="line"
-         x="581.05499"
-         y="-888.12695"
-         style="stroke-width:0.75"
+         x="299.86365"
+         y="-255.04085"
+         style="font-weight:bold;stroke-width:0.75"
          id="tspan7379" /></text>
 <rect
        y="23.774809"
@@ -2481,24 +2524,18 @@
        height="240.67249"
        width="240.67249"
        id="rect6831"
-       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.74960285;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><rect
-       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.74960285;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6833"
-       width="240.67249"
-       height="240.67249"
-       x="300.47961"
-       y="23.774809" /><text
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.74960285;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55px;line-height:10px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-       x="17.115971"
-       y="-1131.9166"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:10px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+       x="80.115967"
+       y="-1131.932"
        id="text6858"
        transform="matrix(0.99999997,-2.2788958e-4,-2.2788958e-4,-0.99999997,0,0)"><tspan
          sodipodi:role="line"
          id="tspan6856"
-         x="17.115971"
-         y="-1131.9166"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75">desenho()</tspan></text>
+         x="80.115967"
+         y="-1131.932"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75">desenho()</tspan></text>
 <image
        y="-859.32098"
        x="19.397659"
@@ -2756,201 +2793,174 @@ AAAAAElFTkSuQmCC
        width="240.94489"
        transform="scale(1,-1)" /><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:10px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-       x="300.79843"
-       y="-1127.2825"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;line-height:10px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;"
+       x="300.64291"
+       y="-1140.6722"
        id="text7080"
        transform="scale(1,-1)"><tspan
          sodipodi:role="line"
-         id="tspan7078"
-         x="300.79843"
-         y="-1127.2825"
-         style="stroke-width:0.75">&quot;&quot;&quot;Um exemplo de polígono.&quot;&quot;&quot;  </tspan><tspan
+         x="300.64291"
+         y="-1140.6722"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';stroke-width:0.75"
+         id="tspan7128">&quot;&quot;&quot;</tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-1117.2825"
-         style="stroke-width:0.75"
-         id="tspan7140" /><tspan
+         x="300.64291"
+         y="-1130.672"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';stroke-width:0.75"
+         id="tspan8085">Exemplo de desenho interativo com setup() e draw().</tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-1107.2825"
-         style="stroke-width:0.75"
-         id="tspan7138">def setup():</tspan><tspan
+         x="300.64291"
+         y="-1120.6719"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';stroke-width:0.75"
+         id="tspan8087">&quot;&quot;&quot;</tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-1097.2825"
-         style="stroke-width:0.75"
-         id="tspan7082">    size(500, 500)</tspan><tspan
+         x="300.64291"
+         y="-1110.6719"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';stroke-width:0.75;"
+         id="tspan7908" /><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-1087.2825"
-         style="stroke-width:0.75"
-         id="tspan7084">    strokeWeight(10)</tspan><tspan
+         x="300.64291"
+         y="-1100.6716"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7910">def setup(): <tspan
+   style="font-weight:normal"
+   id="tspan8250"># função executada uma vez no começo </tspan></tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-1077.2825"
-         style="stroke-width:0.75"
-         id="tspan7086">    background(128)</tspan><tspan
+         x="300.64291"
+         y="-1090.6716"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7912">    size(500, 500) <tspan
+   style="font-weight:normal"
+   id="tspan8252"># define área de desenho</tspan></tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-1067.2825"
-         style="stroke-width:0.75"
-         id="tspan7094">    casinha(250, 250, 400)</tspan><tspan
+         x="300.64291"
+         y="-1080.6716"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7914">    background(100) <tspan
+   style="font-weight:normal"
+   id="tspan8254"># limpa a área com fundo cinza escuro</tspan></tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-1057.2825"
-         style="stroke-width:0.75"
-         id="tspan7136" /><tspan
+         x="300.64291"
+         y="-1070.6716"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7916">    strokeWeight(5) <tspan
+   style="font-weight:normal"
+   id="tspan8256"># ajusta espessura do traço</tspan></tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-1047.2825"
-         style="stroke-width:0.75"
-         id="tspan7096" /><tspan
+         x="300.64291"
+         y="-1060.6716"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7918">        </tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-1037.2825"
-         style="stroke-width:0.75"
-         id="tspan7098">def casinha(x, y, tamanho):</tspan><tspan
+         x="300.64291"
+         y="-1050.6716"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7920">def draw(): # função executada cerca de 60 vezes por segundo</tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-1027.2825"
-         style="stroke-width:0.75"
-         id="tspan7100">    &quot;&quot;&quot;</tspan><tspan
+         x="300.64291"
+         y="-1040.6716"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7922">    if mousePressed: # se o mouse estiver pressionado</tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-1017.2825"
-         style="stroke-width:0.75"
-         id="tspan7102">    Desenhe casinha em x, y com largura e altura 'tamanho'.</tspan><tspan
+         x="300.64291"
+         y="-1030.6716"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7924">        casinha(mouseX, mouseY, 40) # desenhe na ponta do </tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-1007.2825"
-         style="stroke-width:0.75"
-         id="tspan7104">    &quot;&quot;&quot;</tspan><tspan
+         x="300.64291"
+         y="-1020.6716"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7926">            </tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-997.28247"
-         style="stroke-width:0.75"
-         id="tspan7106">    metade = tamanho / 2</tspan><tspan
+         x="300.64291"
+         y="-1010.6716"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7928">def casinha(x, y, tamanho):</tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-987.28247"
-         style="stroke-width:0.75"
-         id="tspan7108">    pushMatrix()  # preserva o sistema de coordenadas atual</tspan><tspan
+         x="300.64291"
+         y="-1000.6714"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7930">    <tspan
+   style="font-weight:normal"
+   id="tspan8258">&quot;&quot;&quot;</tspan></tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-977.28247"
-         style="stroke-width:0.75"
-         id="tspan7110">    translate(x, y)  # translada a origem das coordenadas</tspan><tspan
+         x="300.64291"
+         y="-990.6712"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';stroke-width:0.75"
+         id="tspan7932">    Desenhe casinha em x, y com largura e altura 'tamanho'.</tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-967.28247"
-         style="stroke-width:0.75"
-         id="tspan7112">    beginShape()  # começa a desenhar a forma/polígono</tspan><tspan
+         x="300.64291"
+         y="-980.67096"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';stroke-width:0.75"
+         id="tspan7934">    &quot;&quot;&quot;</tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-957.28247"
-         style="stroke-width:0.75"
-         id="tspan7114">    vertex(0, -metade)</tspan><tspan
+         x="300.64291"
+         y="-970.67096"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7936">    metade = tamanho / 2</tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-947.28247"
-         style="stroke-width:0.75"
-         id="tspan7116">    vertex(-metade, 0)</tspan><tspan
+         x="300.64291"
+         y="-960.67096"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7938">    pushMatrix() <tspan
+   style="font-weight:normal"
+   id="tspan8260"> # preserva o sistema de coordenadas atual</tspan></tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-937.28247"
-         style="stroke-width:0.75"
-         id="tspan7118">    vertex(-metade, metade)</tspan><tspan
+         x="300.64291"
+         y="-950.67096"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7940">    translate(x, y)  <tspan
+   style="font-weight:normal"
+   id="tspan8262"># translada a origem das coordenadas</tspan></tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-927.28247"
-         style="stroke-width:0.75"
-         id="tspan7120">    vertex(metade, metade)</tspan><tspan
+         x="300.64291"
+         y="-940.67096"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7942">    beginShape() <tspan
+   style="font-weight:normal"
+   id="tspan8264"> # começa a desenhar a forma/polígono</tspan></tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-917.28247"
-         style="stroke-width:0.75"
-         id="tspan7122">    vertex(metade, 0)</tspan><tspan
+         x="300.64291"
+         y="-930.67096"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7944">    vertex(0, -metade)</tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-907.28247"
-         style="stroke-width:0.75"
-         id="tspan7124">    endShape(CLOSE)  # encerra fechando no 1o vértice</tspan><tspan
+         x="300.64291"
+         y="-920.67096"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7946">    vertex(-metade, 0)</tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-897.28247"
-         style="stroke-width:0.75"
-         id="tspan7126">    popMatrix() # retorna o sistema de coordenadas anterior</tspan><tspan
+         x="300.64291"
+         y="-910.67096"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7948">    vertex(-metade, metade)</tspan><tspan
          sodipodi:role="line"
-         x="300.79843"
-         y="-887.28247"
-         style="stroke-width:0.75"
-         id="tspan7128">    </tspan></text>
+         x="300.64291"
+         y="-900.67096"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7950">    vertex(metade, metade)</tspan><tspan
+         sodipodi:role="line"
+         x="300.64291"
+         y="-890.67096"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7952">    vertex(metade, 0)</tspan><tspan
+         sodipodi:role="line"
+         x="300.64291"
+         y="-880.67096"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7954">    endShape(CLOSE)  <tspan
+   style="font-weight:normal"
+   id="tspan8266"># encerra fechando no 1o vértice</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="300.64291"
+         y="-870.67096"
+         style="stroke-width:0.75;-inkscape-font-specification:'Inconsolata Bold';font-family:Inconsolata;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan7956">    popMatrix() <tspan
+   style="font-weight:normal"
+   id="tspan8268"># retorna o sistema de coordenadas anterior</tspan></tspan></text>
 <image
-       y="-858.46368"
-       x="300.34302"
-       id="image7500"
-       xlink:href="data:image/png;base64,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
-"
-       preserveAspectRatio="none"
-       height="240.94489"
-       width="240.94489"
-       transform="scale(1,-1)" /><image
-       y="-859.30157"
-       x="581.67096"
+       y="-264.7197"
+       x="300.47961"
        id="image7581"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAH0CAIAAABEtEjdAABf0ElEQVR42u2dX0RmX/vGo5GMYmhk
 pIiSpIiSkSJKkokoSYooKaIkKSKKkuKhoaSIopGJKBopoiiZoYMOOuhgDjrooIMOOuhgDuZ3/b77
@@ -3388,4 +3398,750 @@ yE0C1SJtAAAAAElFTkSuQmCC
        preserveAspectRatio="none"
        height="240.94489"
        width="240.94489"
-       transform="scale(1,-1)" /></g></svg>
+       transform="scale(1,-1)" /><image
+       y="-859.01007"
+       x="300.71213"
+       id="image8036"
+       xlink:href="data:image/png;base64,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
+agAAAABJRU5ErkJggg==
+"
+       preserveAspectRatio="none"
+       height="240.94489"
+       width="240.94489"
+       transform="scale(1,-1)" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;line-height:10px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+       x="20.693901"
+       y="-1060.5107"
+       id="text8041"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan8039"
+         x="20.693901"
+         y="-1060.5107"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75">from outras_dobras import olho, casinha, grade, estrela</tspan><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-1050.5107"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8081" /><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-1040.5107"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8079">def setup():</tspan><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-1030.5107"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8043">    size(500, 500)</tspan><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-1020.5107"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8045">    desenho()</tspan><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-1010.5107"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8047">    saveFrame(&quot;capa_desenho_sem_argumentos.png&quot;)</tspan><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-1000.5107"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8049">    </tspan><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-990.51074"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8051">def desenho():</tspan><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-980.51074"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8053">    noStroke() <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
+   id="tspan8222"># desliga o traço</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-970.51056"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8055">    fill(0) <tspan
+   style="font-weight:normal"
+   id="tspan8224"># preenchimento preto</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-960.51031"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8057">    rect(300, 0, 300, 300) <tspan
+   style="font-weight:normal"
+   id="tspan8226"># fundo preto para o olho</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-950.51013"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8059">    olho(450, 150, 200)</tspan><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-940.51013"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8061">    fill(100) <tspan
+   style="font-weight:normal"
+   id="tspan8228"># preenchimento cinza escuro</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-930.50989"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8063">    rect(0, 300, 300, 300) <tspan
+   style="font-weight:normal"
+   id="tspan8230"># fundo para casinha</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-920.5097"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8065">    fill(255) <tspan
+   style="font-weight:normal"
+   id="tspan8232"># preenchimento branc</tspan>o</tspan><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-910.50946"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8067">    stroke(0) <tspan
+   style="font-weight:normal"
+   id="tspan8234"># traço preto</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-900.50928"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8069">    strokeWeight(10) <tspan
+   style="font-weight:normal"
+   id="tspan8236"># espessura do traço</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-890.50909"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8071">    casinha(150, 150, 200)</tspan><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-880.50909"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8073">    grade(150, 450, 4, 220)</tspan><tspan
+         sodipodi:role="line"
+         x="20.693901"
+         y="-870.50909"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75"
+         id="tspan8075">    estrela(450, 450, 7, 100, 50)</tspan></text>
+<text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:10px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+       x="584.15198"
+       y="-1072.0271"
+       id="text8107"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan8105"
+         x="584.15198"
+         y="-1072.0271"
+         style="stroke-width:0.75">&quot;&quot;&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-1062.0271"
+         style="stroke-width:0.75"
+         id="tspan8109">Exemplo de uso de uma função que desenha um olho.</tspan><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-1052.0271"
+         style="stroke-width:0.75"
+         id="tspan8111">&quot;&quot;&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-1042.0271"
+         style="stroke-width:0.75"
+         id="tspan8113" /><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-1032.0271"
+         style="stroke-width:0.75;font-weight:bold"
+         id="tspan8115">def setup():</tspan><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-1022.0271"
+         style="stroke-width:0.75;font-weight:bold"
+         id="tspan8117">    size(500, 500)</tspan><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-1012.0271"
+         style="stroke-width:0.75;font-weight:bold"
+         id="tspan8119">    background(0) <tspan
+   style="font-weight:normal"
+   id="tspan8272"># fundo preto</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-1002.0271"
+         style="stroke-width:0.75;font-weight:bold"
+         id="tspan8121">    cinza_escuro =  color(100)<tspan
+   style="font-weight:normal"
+   id="tspan8274"> # cria um valor de cor</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-992.0271"
+         style="stroke-width:0.75;font-weight:bold"
+         id="tspan8123">    olho(width / 2, width / 2, width * .8, cinza_escuro)</tspan><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-982.0271"
+         style="stroke-width:0.75;font-weight:bold"
+         id="tspan8125" /><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-972.0271"
+         style="stroke-width:0.75;font-weight:bold"
+         id="tspan8127">def olho(x, y, largura, cor):</tspan><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-962.0271"
+         style="stroke-width:0.75;font-weight:bold"
+         id="tspan8129">    <tspan
+   style="font-weight:normal"
+   id="tspan8276">&quot;&quot;&quot;Desenhe olho na posição x, y com largura e cor.&quot;&quot;&quot;</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-952.0271"
+         style="stroke-width:0.75;font-weight:bold"
+         id="tspan8131">    pushStyle() <tspan
+   style="font-weight:normal"
+   id="tspan8292"># preserva os atributos gráficos atuais</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-942.0271"
+         style="stroke-width:0.75;font-weight:bold"
+         id="tspan8133">    noStroke() <tspan
+   style="font-weight:normal"
+   id="tspan8290"># desliga o traço</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-932.0271"
+         style="stroke-width:0.75;font-weight:bold"
+         id="tspan8135">    fill(255) <tspan
+   style="font-weight:normal"
+   id="tspan8288"># preenchimento branco</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-922.0271"
+         style="stroke-width:0.75;font-weight:bold"
+         id="tspan8137">    ellipse(x, y, largura, largura * .45) <tspan
+   style="font-weight:normal"
+   id="tspan8286"># desenha branco</tspan> </tspan><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-912.0271"
+         style="stroke-width:0.75;font-weight:bold"
+         id="tspan8139">    fill(cor) <tspan
+   style="font-weight:normal"
+   id="tspan8284"># cor de preenchimento do parâmetro</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-902.0271"
+         style="stroke-width:0.75;font-weight:bold"
+         id="tspan8141">    circle(x, y, largura * .4) <tspan
+   style="font-weight:normal"
+   id="tspan8280"># desenha iris</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-892.0271"
+         style="stroke-width:0.75;font-weight:bold"
+         id="tspan8143">    fill(0) <tspan
+   style="font-weight:normal"
+   id="tspan8282"># preenchimento preto</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-882.0271"
+         style="stroke-width:0.75;font-weight:bold"
+         id="tspan8145">    circle(x, y, largura * .1)<tspan
+   style="font-weight:normal"
+   id="tspan8278"> # desenha pupila</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="584.15198"
+         y="-872.0271"
+         style="stroke-width:0.75"
+         id="tspan8147"><tspan
+   style="font-weight:bold"
+   id="tspan8270">    popStyle()</tspan> # retorna aos atributos gráficos anteriores</tspan></text>
+<image
+       y="-860.43994"
+       x="580.5517"
+       id="image8211"
+       xlink:href="data:image/png;base64,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
+s6N6IrW7u9vU1BTf/Proo4+iq8APPvggvu/MpUuXwoerwiO1v78fYkpWp2J8fFwBRS2OS91fXBb5
+7rvvRlF74Y/98ssv4/vOeIIpAzy+lLpwy6OAonb37t2GOAv5/t5770l26yAzr7GxUUqnKC8vb3t7
+Ww1FKr4LZl7M9w8//DCNozFxT3ZLZTJgZ2cnPz9fSqducHBQGUXq8ePHDVnh/Pnzf/vb3465NibW
+M6gvevTokdqOVIgm+XwspaWl9nY3p3r49ZGhYFJ4vumtt94KvX98Vz3+72zqL7/8orYjlbEnLbJZ
+MplUSeZUj/T86ieffHLI/Wfeeeedjz/+OKbPoJpNPSnj4+OSOQ0qKioUU6QGBgYass5XX331xRdf
+fPrpp++//35BQcEf5zeFfwj/Gn4x/Nbnn38exx3B3ih8oKo6UlVVVZI5PWzvHqmZmZkGsohnUyM1
+PT1ty4G0KSsrU1LRef78+aVLl2Ri1tjc3FTV0SkvL5fJ6TQyMqKqotPb2ysTs0NXV5d6jk4IImmc
+ZkVFRVtbW2orIg8ePBCL2WFsbEw9R2R7ezsEkTROP8czRSfWO4jxouXlZfUckUQiIYejsrCwoMIi
+8vXXX0vGuAvp8+uvvyrmKCwuLppHjXZm1VaREUkmk8Ix7kZHR1VyFPb3982jRu7KlStKLQrr6+vC
+Me7Ch6iSo9DS0iJ7M2Fqakq1ReHWrVvyMb5u3ryphqMwOztrQCZzK2d0KFF4+PChiIyvyclJNZx2
+W1tbZ8+elbqZc+7cObsBp93e3t61a9ekZBxdvXrVZmFRDLVXVFTI20yrqalRfGl37949QRlHDpSP
+Ql1dnaQ9GR0dHeovvTY2NmxFYCqVIMSLjD1JGpa0u337tqyMl+7ubnWbXiMjIyZRT1heXp5ztNPr
+6dOn4jJelpaW1G0ahUgJwSJd5XsW6uzslJhxET4sT6Wm0dzcXEFBgVw9Rfk+Pz+vLtMldIJCMy6e
+PHmiYtMlxEhhYaFEPV3Cl234ylWd6dLd3S03te2SndOS79PT02o0LdbX1y2bOeXCB7S2tqZW0yJE
+h2Q3/p4rhoaGBOhp5qxUM6g5l+/JZFK9Ht/m5ubly5dl6OnU1NS0sbGhSo9veHhYssfs+ab9/X2F
+e0xjY2Ni9HTSwaRFW1ub9ezxU1dXZ/+ZY9rb22ttbZWkp034UHZ3d9XncYTmr6amRk7GVVlZ2bNn
+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
+AABJRU5ErkJggg==
+"
+       preserveAspectRatio="none"
+       height="240.94489"
+       width="240.94489"
+       transform="scale(1,-1)" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:10px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+       x="796.75983"
+       y="-962.94232"
+       id="text8216"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan8214"
+         x="796.75983"
+         y="-955.3913"
+         style="stroke-width:0.75"></tspan></text>
+<text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:10px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+       x="795.51044"
+       y="-961.27637"
+       id="text8220"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan8218"
+         x="795.51044"
+         y="-953.72534"
+         style="stroke-width:0.75" /></text>
+<flowRoot
+       xml:space="preserve"
+       id="flowRoot8242"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:Inconsolata;font-style:normal;font-weight:normal;font-size:10.66666667px;line-height:13.33333302px;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Inconsolata;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion8244"><rect
+           id="rect8246"
+           width="231.3107"
+           height="149.74324"
+           x="200.87508"
+           y="-59.774014" /></flowRegion><flowPara
+         id="flowPara8248"></flowPara></flowRoot></g></svg>

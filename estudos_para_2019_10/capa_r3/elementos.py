@@ -1,4 +1,5 @@
 # -*- encoding: utf-8 -*-
+
 def casinha(x, y, tamanho):
     """ Casinha na posição x, y com largura e altura 'tamanho' """
     metade = tamanho / 2
@@ -12,14 +13,13 @@ def casinha(x, y, tamanho):
     vertex(metade, 0)
     endShape(CLOSE)  # encerra a forma a fechando no primeiro vértice
     popMatrix() # retorna o sistema de coordenadas anterior
-
     
 def estrela(x_centro, y_centro, num_pontas, raio_a, raio_b):
     """
     Desenha uma estrela com np pontas
     raio a e raio b são os raios internos e das pontas
     """
-    n = num_pontas * 2 # a forma é um polígono o dobro de pontos que as pontas
+    n = num_pontas * 2 # dobro de pontos que as pontas
     inc = radians(360. / n) # ângulo de eincremento entre os pontos
     beginShape() # começa a desenhar a forma
     ang = 0 # começando com o ângulo 0

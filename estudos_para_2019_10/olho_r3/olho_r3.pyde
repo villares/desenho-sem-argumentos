@@ -9,19 +9,13 @@ def setup():
     olho(width / 2, width / 2, width * .8, cinza_escuro)
 
 def olho(x, y, largura, cor):
-    """Denhenhe um olho na posição x, y com largura e cor da iris."""
+    """Desenhe um olho na posição x, y com largura e cor."""
     pushStyle() # preserva os atributos gráficos atuais
     noStroke() # desliga o traço
     fill(255) # preenchimento branco
-    ellipse(x, y, largura, largura * .45) # desenha elipse branca 
+    ellipse(x, y, largura, largura * .45) # desenha branco 
     fill(cor) # cor de preenchimento do parâmetro
-    circle(x, y, largura * .4) # desenha a iris
+    circle(x, y, largura * .4) # desenha iris
     fill(0) # preenchimento preto
-    circle(x, y, largura * .1) # desenha a pupila
+    circle(x, y, largura * .1) # desenha pupila
     popStyle() # retorna aos atributos gráficos anteriores
-    
-    saveFrame("olho.png")
-
-
-
-    
