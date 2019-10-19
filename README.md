@@ -3,7 +3,7 @@
 
 > para desenhar com código, para desenhar junto, com o computador e com outras pessoas!
 
-## <div style="font-family: monospace;">desenho() #0 outubro de 2019<div>
+<h2 style="font-family: monospace;">desenho() #0 outubro de 2019</h2>
 
 A primeira edição é uma espécie de zine, fôlder e pôster, feita para ser distribuída gratuitamente na [Python Brasil 2019](https://2019.pythonbrasil.org.br/)
 
@@ -16,7 +16,7 @@ Contribuiram para a impressão: Adri Patamoma, Advan Shumiski, André Burnier, B
 ---
 <div style="font-family: monospace;">
 <b>desenho()</b> # publicação independente de desenho e programação<br>
-Copyright (C) 2019 <a href="https://abav.lugaralgum.com">Alexandre B A Villares</a></br>
-Texto e imagens: Licença Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0) 
+Copyright (C) 2019 <a href="https://abav.lugaralgum.com">Alexandre B A Villares</a><br>
+Texto e imagens: Licença Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0) <br>
 Código: Licença Pública Geral GNU (GPL v3.0)
 </div>
