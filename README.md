@@ -3,7 +3,7 @@
 
 > para desenhar com código, para desenhar junto, com o computador e com outras pessoas!
 
-<h3 style="font-family: monospace;">desenho() #0 outubro de 2019</h2>
+<h3 style="font-family: monospace;">desenho() #0 outubro de 2019</h3>
 
 A primeira edição é uma espécie de zine, fôlder e pôster, feita para ser distribuída gratuitamente na [Python Brasil 2019](https://2019.pythonbrasil.org.br/)
 
