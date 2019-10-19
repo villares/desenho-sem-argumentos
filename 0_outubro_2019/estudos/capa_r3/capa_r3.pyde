@@ -1,9 +1,13 @@
+add_library('pdf')
 from elementos import olho, casinha, grade, estrela
 
 def setup():
     size(500, 500)
+    beginRecord(PDF, "capa.pdf")
+    background(200)
     desenho()
-    saveFrame("capa_desenho_sem_argumentos.png")
+    endRecord()
+
     
 def desenho():
     # width é a largura da área de desenho
