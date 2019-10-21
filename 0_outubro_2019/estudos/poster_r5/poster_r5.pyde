@@ -15,6 +15,7 @@ def setup():
     noLoop()
 
 def draw():
+    grade(0, 0, 6, 6, rnd_circ=True) # só pra "alinhar" o random do poster 
     background(255)
     beginRecord(PDF, 'poster_seed{}.pdf'.format(s))
     rectMode(CENTER)
