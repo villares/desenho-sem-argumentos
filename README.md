@@ -1,22 +1,23 @@
-
 ---
 
-> para desenhar com código, para desenhar junto, com o computador e com outras pessoas!
-
+<div style="font-family: inconsolata, monospace; font-size: 1em">Para desenhar com código, para desenhar junto, com o computador e com outras pessoas!</div>
 <h3 style="font-family: inconsolata, monospace;">desenho() #0 outubro de 2019</h3>
 
-A primeira edição é uma espécie de zine, fôlder e pôster, feita para ser distribuída gratuitamente na [Python Brasil 2019](https://2019.pythonbrasil.org.br/)
+A primeira edição, feita para ser distribuída gratuitamente na [Python Brasil 2019](https://2019.pythonbrasil.org.br/), é uma espécie de zine, fôlder e pôster. Cada exemplar é para ser único, e foram impressor inicialmente 200. 
+
+**Para executar o código, instale o Processing modo Python ([instruções](https://abav.lugaralgum.com/como-instalar-o-processing-modo-python/)).**
 
 Agradecimentos especiais: Décio Otoni de Almeida, Bernardo Fontes, Monica Rizzolli
 
-Campanha de arrecadação: [doe e, se quiser, peça um exemplar pelo correio](https://gumroad.com/l/desenho0)
+Contribuiram para a impressão: Adri Patamoma, Advan Shumiski, André Burnier, Bernardo Fontes, Fábio C. Barrionuevo da Luz, Juan Lopes, Lucia Dossin, Monica Rizzolli, Otavio Carneiro, Rodolfo Viana, Thais Viana, Uriá Fassina, Yorik van Havre e Dann Luciano.
 
-Contribuiram para a impressão: Adri Patamoma, Advan Shumiski, André Burnier, Bernardo Fontes, Fábio C. Barrionuevo da Luz, Juan Lopes, Lucia Dossin, Monica Rizzolli, Otavio Carneiro, Rodolfo Viana, Thais Viana, Uriá Fassina, Yorik van Havre.
+**Muito obrigado a todas as pessoas que apoiaram!**
 
 ---
-<div style="font-family: inconsolata, monospace; font-size: 0.7em">
+<div style="font-family: inconsolata, monospace; font-size: 1em">
 <b>desenho()</b> # publicação independente de desenho e programação<br>
-Copyright (C) 2019 <a href="https://abav.lugaralgum.com">Alexandre B A Villares</a><br>
-Texto e imagens: Licença Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR">CC BY-NC-SA 4.0</a>)<br>
-Código: Licença Pública Geral GNU (GPL v3.0)
+"""<br>
+Copyright (C) 2019 <a href="https://abav.lugaralgum.com">Alexandre B A Villares</a>.<br> 
+Texto e imagens: Licença Atribuição-NãoComercial-CompartilhaIgual 4.0 (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR">CC BY-NC-SA 4.0</a>).<br>Código: Licença Pública Geral GNU (GPL v3.0)
+<br>"""
 </div>
