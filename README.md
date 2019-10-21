@@ -21,6 +21,6 @@ Contribuiram para a impressão: Adri Patamoma, Advan Shumiski, André Burnier, B
 <b>desenho()</b> # publicação independente de desenho e programação<br>
 """<br>
 Copyright (C) 2019 <a href="https://abav.lugaralgum.com">Alexandre B A Villares</a>.<br> 
-Texto e imagens: Licença Atribuição-NãoComercial-CompartilhaIgual 4.0 (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR">CC BY-NC-SA 4.0</a>).<br>Código: Licença Pública Geral GNU (GPL v3.0)
+Texto e imagens: Licença Atribuição-NãoComercial-CompartilhaIgual 4.0 (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR">CC BY-NC-SA 4.0</a>).<br>Código: Licença Pública Geral GNU ([GPL v3.0](https://github.com/villares/desenho-sem-argumentos/blob/master/LICENSE.txt))
 <br>"""
 </div>
