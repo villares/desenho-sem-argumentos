@@ -19,7 +19,7 @@ def draw():
     beginRecord(PDF, 'poster_seed{}.pdf'.format(s))
     rectMode(CENTER)
     strokeJoin(ROUND)
-    poster(width / 2., height / 2., 6, width - 140)
+    poster(width / 2., height / 2., 6, width - 100)
     endRecord()
 
 def poster(xo, yo, divisoes, dim_total, elemento=None):
@@ -37,7 +37,7 @@ def poster(xo, yo, divisoes, dim_total, elemento=None):
                 desenha_elemento(x, y, dim, elemento)
             elif dim > 20 and random(10) < 7.5:  # subdivisão
                 poster(x, y, 3, dim)  # com a função poster!
-            elif 80 >= dim > 10 and random(10) < 9.5:  # também 
+            elif dim < 80 and random(10) < 9.5:  # também 
                 # +3 não permite estrela e casas preenchidas
                 poster(x, y, 3, dim * 2, sel_elemento + 3) 
             else:  # faz um elemento "sozinho"
