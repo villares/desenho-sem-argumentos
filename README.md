@@ -6,7 +6,9 @@
 
 A primeira edição, feita para ser distribuída gratuitamente na [Python Brasil 2019](https://2019.pythonbrasil.org.br/), é uma espécie de zine, fôlder e pôster. Cada exemplar é para ser único, e foram impressor inicialmente 200. 
 
-**Para executar o código, instale o Processing modo Python ([instruções](https://abav.lugaralgum.com/como-instalar-o-processing-modo-python/)).**
+**[Para contribuir com uma doação](https://gumroad.com/l/desenho0)**
+
+**Para executar o [código](https://github.com/villares/desenho-sem-argumentos), instale o Processing modo Python ([instruções](https://abav.lugaralgum.com/como-instalar-o-processing-modo-python/)).**
 
 Agradecimentos especiais: Décio Otoni de Almeida, Bernardo Fontes, Monica Rizzolli
 
