@@ -4,7 +4,7 @@
 ![gif animado com amostras da publicação](assets/amostra-desenho0.gif)
 <h2 style="font-family: inconsolata, monospace;">desenho() #0 outubro de 2019</h2>
 
-A primeira edição, feita para ser distribuída gratuitamente na [Python Brasil 2019](https://2019.pythonbrasil.org.br/), é uma espécie de zine, fôlder e pôster. Cada exemplar é para ser único, e foram impressor inicialmente 200. 
+A primeira edição, feita para ser distribuída gratuitamente na [Python Brasil 2019](https://2019.pythonbrasil.org.br/), é uma espécie de zine, fôlder e pôster. Cada exemplar é para ser único, e foram impressos inicialmente 200. 
 
 **[Para contribuir com uma doação.](https://gumroad.com/l/desenho0)**
 
