@@ -1,11 +1,8 @@
 <div style="font-family: inconsolata, monospace; font-size: 0.7em">"""Para desenhar com código, para desenhar junto, com o computador e com outras pessoas!"""</div>
-
 ---
 
 ![gif animado com amostras da publicação](assets/amostra-desenho0.gif)
-
-<h3 style="font-family: inconsolata, monospace;">desenho() #0 outubro de 2019</h3>
-
+<h2 style="font-family: inconsolata, monospace;">desenho() #0 outubro de 2019</h2>
 
 A primeira edição, feita para ser distribuída gratuitamente na [Python Brasil 2019](https://2019.pythonbrasil.org.br/), é uma espécie de zine, fôlder e pôster. Cada exemplar é para ser único, e foram impressor inicialmente 200. 
 
