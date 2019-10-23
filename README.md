@@ -12,7 +12,8 @@ A primeira edição, feita para ser distribuída gratuitamente na [Python Brasil
 
 Agradecimentos especiais: Décio Otoni de Almeida, Bernardo Fontes, Monica Rizzolli
 
-Contribuiram para a impressão: Adri Patamoma, Advan Shumiski, André Burnier, Bernardo Fontes, Fábio C. Barrionuevo da Luz, Juan Lopes, Lucia Dossin, Monica Rizzolli, Otavio Carneiro, Rodolfo Viana, Thais Viana, Uriá Fassina, Yorik van Havre e Dann Luciano.
+Contribuiram para a impressão: Adri Patamoma, Advan Shumiski, André Burnier, Bernardo Fontes, Fábio C. Barrionuevo da Luz, Juan Lopes, Lucia Dossin, Monica Rizzolli, Otavio Carneiro, Rodolfo Viana, Thais Viana, Uriá Fassina, Yorik van Havre (primeira leva em ordem alfabética).
+E também: Dann Luciano e Fábio Souza (até agora!)
 
 **Muito obrigado a todas as pessoas que apoiaram!**
 
