@@ -10,7 +10,7 @@ Para gerar a imagem do pôster no verso, execute o código em [poster_r5](https:
 
 Para gerar uma grade para a parte da frente, execute o código em [grade_simples_r3](https://github.com/villares/desenho-sem-argumentos/blob/master/0_outubro_2019/estudos/grade_simples_r3/).
 
-***Atenção: na versão impressa há dois erros de indentação, no começo da linha do `randomSeed(s)` paltam 4 espaços, e no começo da linha `pass # nao desenha nada!` no final, faltaram 8 espaços.***
+***Atenção: na versão impressa há dois erros de indentação, no começo da linha do `randomSeed(s)` faltam 4 espaços, e no começo da linha `pass # nao desenha nada!` no final, faltaram 8 espaços.***
 
 ---
 
