@@ -2,15 +2,16 @@
 
 Para começar [instale o Processing modo Python](https://abav.lugaralgum.com/como-instalar-o-processing-modo-python/).
 
-### Instruções para executar o cógido do pôster
+### Sugestões para executar o cógido do pôster
 
-Para gerar a imagem do pôster no verso, execute o código em [poster_r5](https://github.com/villares/desenho-sem-argumentos/tree/master/0_outubro_2019/estudos/poster_r5) que pode ser combinado com [base_verso.svg](https://github.com/villares/desenho-sem-argumentos/blob/master/0_outubro_2019/estudos/base_poster.svg).
+O código de cada elemento do zine está em [estudos](https://github.com/villares/desenho-sem-argumentos/blob/master/0_outubro_2019/estudos/), e tem inclusive versões anteriores abandonadas.
 
-### Grade variável da parte da frente
+Para gerar apenas a imagem do pôster no verso, execute o código em [poster_r5](https://github.com/villares/desenho-sem-argumentos/tree/master/0_outubro_2019/estudos/poster_r5). O resultado foi depois combinado com a [base_verso.svg](https://github.com/villares/desenho-sem-argumentos/blob/master/0_outubro_2019/estudos/base_poster.svg) na produção do zine.
 
-Para gerar uma grade para a parte da frente, execute o código em [grade_simples_r3](https://github.com/villares/desenho-sem-argumentos/blob/master/0_outubro_2019/estudos/grade_simples_r3/).
+Usando o [gerador_completo](https://github.com/villares/desenho-sem-argumentos/blob/master/0_outubro_2019/gerador_completo) é possível produzir novas tiragens completas (frente e verso) prontas para imprimir!
 
-***Atenção: na versão impressa há dois erros de indentação, no começo da linha do `randomSeed(s)` faltam 4 espaços, e no começo da linha `pass # nao desenha nada!` no final, faltaram 8 espaços.***
+
+***Atenção: na versão inicial impressa havia dois erros de indentação, no começo da linha do `randomSeed(s)` faltam 4 espaços, e no começo da linha `pass # nao desenha nada!` no final, faltaram 8 espaços. A base SVG já foi corrigida***
 
 ---
 

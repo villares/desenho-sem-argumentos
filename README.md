@@ -4,7 +4,7 @@
 ![gif animado com amostras da publicação](assets/amostra-desenho0.gif)
 <h2 style="font-family: inconsolata, monospace;">desenho() #0 outubro de 2019</h2>
 
-A primeira edição, feita para ser distribuída gratuitamente na [Python Brasil 2019](https://2019.pythonbrasil.org.br/), é uma espécie de zine, fôlder e pôster. Cada exemplar é para ser único, e foram impressos inicialmente 200. 
+A primeira edição, feita para ser distribuída gratuitamente na [Python Brasil 2019](https://2019.pythonbrasil.org.br/), é uma espécie de zine, fôlder e pôster. Cada exemplar é para ser único, e foram impressos inicialmente 200. [Slides da minha apresentação na Python Brasil](https://abav.lugaralgum.com/palestras/pybr2019/).
 
 **Para executar o [código](https://github.com/villares/desenho-sem-argumentos/tree/master/0_outubro_2019), instale o Processing modo Python ([instruções](https://abav.lugaralgum.com/como-instalar-o-processing-modo-python/)).**
 
@@ -15,9 +15,9 @@ Agradecimentos especiais: Décio Otoni de Almeida, Bernardo Fontes, Monica Rizzo
 Contribuiram para a impressão: Adri Patamoma, Advan Shumiski, André Burnier, Bernardo Fontes, Fábio C. Barrionuevo da Luz, Juan Lopes, Lucia Dossin, Monica Rizzolli, Otavio Carneiro, Rodolfo Viana, Thais Viana, Uriá Fassina, Yorik van Havre (primeira leva em ordem alfabética).
 E também: Dann Luciano e Fábio Souza (até agora!)
 
-**[Para contribuir com uma doação.](https://gumroad.com/l/desenho0)**
+**[Contribua também com uma doação.](https://gumroad.com/l/desenho0)**
 
-**ERRATA/ATUALIZAÇÃO!** - No código impresso no poster, encontrei dois erros de indentação: logo no começo o `randomSeed(s)` e na última linha `pass # não desenha nada!` precisariam 4 e 8 espaços no início das respectivas linhas. Confira a [amostra corrigida](https://github.com/villares/desenho-sem-argumentos/blob/master/0_outubro_2019/AMOSTRA_FRENTE_E_VERSO_v191020.pdf)
+**ERRATA/ATUALIZAÇÃO!** - No código do poster impresso, encontrei dois erros de indentação: logo no começo o `randomSeed(s)` e na última linha `pass # não desenha nada!` precisariam 4 e 8 espaços no início das respectivas linhas. Confira a [amostra corrigida](https://github.com/villares/desenho-sem-argumentos/blob/master/0_outubro_2019/AMOSTRA_FRENTE_E_VERSO_v191020.pdf)
 
 
 ---
