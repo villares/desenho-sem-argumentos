@@ -20,12 +20,12 @@ def setup():
     """
     f = createFont('Inconsolata-Bold', 18)  # precisa ter Inconsolata Bold instalada
 
-    # 10  com 191020
-    # 100 com 191021
-    # 100 com 191022
+    # 10 com 191020; 100 com 191021; 100 com 191022;
+    # 01 com 191929 (amostra); 1 com 191110;
+    # 10 com 191111.
     # seed "master" da tiragem (não incluso para tiragem > 1)
-    semente = random_seed(191021)  
-    tiragem = 10
+    semente = random_seed(191020)  
+    tiragem = 1
 
 def draw():
     """
