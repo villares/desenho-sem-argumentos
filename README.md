@@ -3,7 +3,6 @@
 
 ![gif animado com amostras da publicação](assets/amostra-desenho0.gif)
 <h2 style="font-family: inconsolata, monospace;">desenho() #0 outubro de 2019</h2>
-
 A primeira edição, feita para ser distribuída gratuitamente na [Python Brasil 2019](https://2019.pythonbrasil.org.br/), é uma espécie de zine, fôlder e pôster. Cada exemplar é para ser único, e foram impressos inicialmente 200. [Slides da minha apresentação na Python Brasil](https://abav.lugaralgum.com/palestras/pybr2019/).
 
 **Para executar o [código](https://github.com/villares/desenho-sem-argumentos/tree/master/0_outubro_2019), instale o Processing modo Python ([instruções](https://abav.lugaralgum.com/como-instalar-o-processing-modo-python/)).**
@@ -19,12 +18,11 @@ E também: Dann Luciano e Fábio Souza (até agora!)
 
 **ERRATA/ATUALIZAÇÃO!** - No código do poster impresso, encontrei dois erros de indentação: logo no começo o `randomSeed(s)` e na última linha `pass # não desenha nada!` precisariam 4 e 8 espaços no início das respectivas linhas. Confira a [amostra corrigida](https://github.com/villares/desenho-sem-argumentos/blob/master/0_outubro_2019/AMOSTRA_FRENTE_E_VERSO_v191020.pdf)
 
-
 ---
 <div style="font-family: inconsolata, monospace; font-size: 0.7em">
 <b>desenho()</b> # publicação independente de desenho e programação<br>
 """<br>
 Copyright (C) 2019 <a href="https://abav.lugaralgum.com">Alexandre B A Villares</a>.<br> 
-Texto e imagens: Licença Atribuição-NãoComercial-CompartilhaIgual 4.0 (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR">CC BY-NC-SA 4.0</a>).<br>Código: Licença Pública Geral GNU ([GPL v3.0](https://github.com/villares/desenho-sem-argumentos/blob/master/LICENSE.txt))
+Texto e imagens: Licença Atribuição-NãoComercial-CompartilhaIgual 4.0 (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR">CC BY-NC-SA 4.0</a>).<br>Código: Licença Pública Geral GNU (<a ref="https://github.com/villares/desenho-sem-argumentos/blob/master/LICENSE.txt">GPL v3.0</a>)
 <br>"""
 </div>
