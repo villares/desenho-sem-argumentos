@@ -19,13 +19,13 @@ def setup():
     Use createFont() instead of loadFont() when drawing text using the PDF library.
     """
     f = createFont('Inconsolata-Bold', 18)  # precisa ter Inconsolata Bold instalada
-
+    # 20 com 191220
     # 10 com 191020; 100 com 191021; 100 com 191022;
     # 01 com 191929 (amostra); 1 com 191110;
     # 10 com 191111.
     # seed "master" da tiragem (não incluso para tiragem > 1)
-    semente = random_seed(191020)  
-    tiragem = 1
+    semente = random_seed(191220)  
+    tiragem = 20
 
 def draw():
     """
