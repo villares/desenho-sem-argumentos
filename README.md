@@ -16,7 +16,7 @@ E também: Dann Luciano e Fábio Souza (até agora!)
 
 **[Contribua também com uma doação.](https://gumroad.com/l/desenho0)**
 
-**ERRATA/ATUALIZAÇÃO!** - No código do poster impresso, encontrei dois erros de indentação: logo no começo o `randomSeed(s)` e na última linha `pass # não desenha nada!` precisariam 4 e 8 espaços no início das respectivas linhas. Confira a [amostra corrigida](https://github.com/villares/desenho-sem-argumentos/blob/master/0_outubro_2019/AMOSTRA_FRENTE_E_VERSO_v191020.pdf)
+**ERRATA/ATUALIZAÇÃO!** - No código dos pôsters impressos encontrei alguns erros de indentação confira o código do gerador neste repositório que está OK... minhas desculpas. 
 
 ---
 <div style="font-family: inconsolata, monospace; font-size: 0.7em">
