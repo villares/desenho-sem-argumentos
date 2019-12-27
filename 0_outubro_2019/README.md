@@ -13,7 +13,8 @@ Usando o [gerador_completo](https://github.com/villares/desenho-sem-argumentos/b
 
 ***ERRATAS:
 Na versão inicial impressa havia erros de indentação, no começo da linha do `randomSeed(s)` faltam 4 espaços, e no começo da linha `pass # nao desenha nada!` no final, faltaram 8 espaços. 
-Em 12/2010 encontrei mais um erro de indentação e agora suponho que está tudo certo!
+
+Em dez/2019 encontrei mais um erro de indentação e agora suponho que está tudo certo!
 (o código no repositório sempre esteve OK, só a representação dele no SVG que "andou".)
 ***
 
