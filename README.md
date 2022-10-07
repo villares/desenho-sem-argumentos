@@ -4,7 +4,7 @@
 <h2 style="font-family: inconsolata, monospace;">desenho() #1 outubro de 2022</h2>
 
 Em breve aqui mais informações sobre a próxima edição do zine/poster!
-Se você quiser contribuir, faça um PIX para a chave `46c37783-5edb-4f1c-b3a8-1309db11488c`, ou uma doação em htts://gumroad.com/villares.
+Se você quiser contribuir, faça um PIX para a chave `46c37783-5edb-4f1c-b3a8-1309db11488c`, ou uma doação em [gumroad.com/villares](https://gumroad.com/l/desenho1).
 
 ---
 ![gif animado com amostras da publicação](assets/amostra-desenho0.gif)
