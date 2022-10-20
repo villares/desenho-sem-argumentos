@@ -3,16 +3,15 @@ Poster desenho() #1_outubro_2021 versão 191023a
 https://desenho.lugaralgum.com (para licenças, créditos e agradecimentos!)
 """
 
-from poster import poster
-from elementos import grade
+from poster import draw_nodes
 
 def setup():
     global frente, verso, semente, tiragem, f
     size(112, 159)  #1122 1587
     no_loop()
     
-    #frente = load_shape('base_frente.svg')
-    #verso = load_shape('base_poster.svg')
+    frente = load_shape('data/base_frente.svg')
+    verso = load_shape('data/base_poster.svg')
     """
     Aviso de erro quando tentei usar um VLW:
     Use createFont() instead of loadFont() when drawing text using the PDF library.
@@ -42,11 +41,11 @@ def draw():
         fill(200)
         rect(x_grade, y_grade, 321, 321)
         fill(0)
-        grade(x_grade, y_grade, 6, 321, rnd_circ=True)
         pdf.next_page()
         #shape(verso)    
         largura_miolo = width - 110
-        poster(width / 2, height - 55 - largura_miolo / 2, 6, largura_miolo)
+        #poster(width / 2, height - 55 - largura_miolo / 2, 6, largura_miolo)
+        draw_nodes()
         # fill(255, 0, 0) # vermelho para debug da posição
         text_font(f)
         text_size(10.5)

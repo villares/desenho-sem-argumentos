@@ -1,66 +1,94 @@
-# -*- encoding: utf-8 -*-
+import py5
+import random  # sample, shuffle, seed
 
-"""
-Poster desenho() #1_outubro_2021 versão _
-https://desenho.lugaralgum.com (para licenças, créditos e agradecimentos!)
-"""
-from random import choice
-from py5 import *
+nodes = {}
+unvisited_nodes = []
 
-from elementos import casinha, poligono_regular
+EVN_NBS = ((0, 1), (0, -1), (-1, 0), (1, 0), (-1, -1), (1, -1))
+ODD_NBS = ((0, 1), (0, -1), (-1, 0), (1, 0), (-1,  1), (1,  1))
 
-def poster(xo, yo, divisoes, dim_total, elemento=None):
-    """
-    Faça desenho do poster usando subdivisões recursivas.
-    """
-    dim = dim_total / divisoes   # dimensão de célula da grade
-    offset = (dim - dim_total) / 2
-    for i in range(divisoes):
-        x = xo + offset + dim * i
-        for j in range(divisoes):
-            y = yo + offset + dim * j
-            sel_elemento = choice((0, 1, 2, 3, 4))
-            if elemento is not None:  # elemento grade regular
-                desenha_elemento(x, y, dim, elemento)
-            elif dim > 20 and random(10) < 7.5:  # subdivisão
-                poster(x, y, 3, dim)  # com a função poster!
-            elif dim < 80 and random(10) < 9.5:  # também 
-                # +3 não permite estrela e casas preenchidas
-                poster(x, y, 3, dim, sel_elemento + 3) 
-            else:  # faz um elemento "sozinho"
-                desenha_elemento(x, y, dim, sel_elemento)
-#     if divisoes == 6:  # uma vez só, na maior grade apenas
-#         w_olho = dim_total / 18  # dimensão do quadrado olho
-#         x_olho = random(w_olho, dim_total / 2)
-#         y_olho = random(dim_total / 2, dim_total - w_olho)
-#         fill(0)
-#         square(x_olho, y_olho, w_olho)
-#         olho(x_olho, y_olho, w_olho * .9)
+W = 25
+H = W * py5.sqrt(3) / 2  # sin(radians(60))
+OX, OY = W / 2, H / 2  # deslocamento (offset)
 
-def desenha_elemento(x, y, w, seletor):
-    """
-    Posicione, ajuste atributos e selecione
-    elementos de desenho, invocando as funções
-    como definidas no verso do pôster:
-    estrela(), casinha() 
-    """ 
-    stroke(0)
-    stroke_weight(.5)
-    if seletor == 0:  # estrela em preto
-        fill(0)
-        num_pontas = choice((5, 7, 9))
-        ra = w * .35
-        rb = choice((w * .25, w * .15, w * .075))
-        poligono_regular(x, y, num_pontas, ra, rb)
-    elif seletor == 1:  # casinha branca
-        fill(255)
-        square(x, y, w)
-    elif seletor == 2:  # 
-        no_fill()
-        circle(x, y, w * 2)
-    elif 3 <= seletor < 5: 
-        fill(0)  # casinha sem preenchimento
-        circle(x, y, w)
-    else:
-        no_fill()  # casinha sem preenchimento
-        circle(x, y, w * 2)
+def setup():
+    py5.size(1122, 1122)
+    py5.no_fill()
+    generate(2022)
+
+def draw():
+    py5.background(240)
+    py5.translate(py5.width / 2, py5.height / 2)
+    draw_nodes()
+    
+def draw_nodes():
+    for n, v in nodes.items():
+        ia, ja, ka = n
+        ib, jb, gen = v
+        w = py5.remap(gen, 0, 50, 0, W)
+        xa, ya = ij_to_xy(ia, ja)
+        xb, yb = ij_to_xy(ib, jb)
+        py5.stroke_weight(min(abs(W / 30 + 3 - w / 5), 2))
+        py5.line(xa, ya, xb, yb)
+        hexagon(xa, ya, w)
+
+def generate(s):
+    global rnd_seed
+    rnd_seed = s
+    random.seed(s)
+    print(f'seed: {s}')
+    nodes.clear()
+    unvisited_nodes[:] = []
+    add_starting_points()
+    previous_len_nodes = -1
+    while previous_len_nodes != len(nodes):
+        previous_len_nodes = len(nodes)
+        unvisited_nodes[:] = grow()
+
+def add_starting_points():
+    for k in range(4):
+        limit = py5.width // W // 2 - 1
+        i = random.randint(-limit, limit)
+        j = random.randint(-limit, limit)
+        nodes[(i, j, k % 2)] = (i, j, 0)
+        unvisited_nodes.append((i, j, k % 2))
+
+def grow():
+    for i, j, k in unvisited_nodes:
+        nbs = EVN_NBS if i % 2 == 0 else ODD_NBS
+        _, _, gen = nodes[(i, j, k)]
+        random.seed(k + gen // 10)
+        xnbs = random.sample(nbs, 3)
+        random.shuffle(xnbs)
+        for ni, nj in xnbs:
+            ini, jnj = i + ni, j + nj
+            if (ini, jnj, k) not in nodes and visible(ini, jnj):
+                nodes[(ini, jnj, k)] = (i, j, gen + 1)
+                yield ini, jnj, k
+
+def ij_to_xy(i, j):
+    y = j * H + OY if i % 2 == 0 else j * H + H / 2 + OY
+    x = i * W * 3 / 4 + OX
+    return x, y
+
+def visible(i, j):
+    x, y = ij_to_xy(i, j)
+    return (abs(x) < py5.width / 2 - W * 2 and
+            abs(y) < py5.width / 2 - W * 2)  # square 
+
+def hexagon(xo, yo, r):
+    ang = py5.TWO_PI / 6
+    with py5.begin_closed_shape():  # começa a desenhar a forma
+         for i in range(6):
+            py5.vertex(xo + py5.cos(i * ang) * r,
+                       yo + py5.sin(i * ang) * r)
+
+def key_pressed():
+    if py5.key == ' ':
+        generate(py5.frame_count)
+    elif py5.key == 'a':
+        add_starting_points()
+    elif py5.key == 's':
+        py5.save_frame(f'{rnd_seed}.png')
+
+py5.run_sketch()
