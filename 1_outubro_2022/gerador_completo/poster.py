@@ -73,8 +73,8 @@ def ij_to_xy(i, j):
 
 def visible(i, j):
     x, y = ij_to_xy(i, j)
-    return (abs(x) < py5.width / 2 - W * 2 and
-            abs(y) < py5.width / 2 - W * 2)  # square 
+    return (abs(x) < py5.width / 2 - W * 4 and
+            abs(y) < py5.width / 2 - W * 4)  # square 
 
 def hexagon(xo, yo, r):
     ang = py5.TWO_PI / 6

@@ -8,7 +8,7 @@
    width="1122.5197"
    height="1587.4017"
    viewBox="0 0 1122.5197 1587.4017"
-   sodipodi:docname="base_poster.svg"
+   sodipodi:docname="base_poster (cópia 2).svg"
    inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -78,9 +78,9 @@
      inkscape:window-height="1052"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="2.438701"
-     inkscape:cx="236.60137"
-     inkscape:cy="141.26373"
+     inkscape:zoom="2.425569"
+     inkscape:cx="654.07335"
+     inkscape:cy="325.07837"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -454,12 +454,12 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.75"
          x="300.78265"
          y="-870.45587"
-         id="tspan2609">    return (abs(x) &lt; py5.width / 2 - W * 2 and</tspan><tspan
+         id="tspan2609">    return (abs(x) &lt; py5.width / 2 - W * 4 and</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.75"
          x="300.78265"
          y="-860.45587"
-         id="tspan2611">            abs(y) &lt; py5.width / 2 - W * 2)  # square </tspan><tspan
+         id="tspan2611">            abs(y) &lt; py5.width / 2 - W * 4)  # square </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.75"
          x="300.78265"

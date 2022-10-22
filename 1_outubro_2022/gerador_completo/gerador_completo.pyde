@@ -14,31 +14,33 @@ OX, OY = W / 2, H / 2  # deslocamento (offset)
 def setup():
     global verso, tiragem, frente
     size(1122, 1587)
-    generate(20221001)
-    tiragem = 100
+    generate(20220000)
+    tiragem = 50
     f = createFont('Inconsolata Bold', 10)  # precisa ter Inconsolata Bold instalada
-
     noLoop()
     verso = loadShape('base_poster.svg')
     frente = loadShape('base_frente.svg')
 
-    print(verso)
-
 def draw():
-    pdf = beginRecord(PDF, "desenho0-{}-{}.pdf".format(rnd_seed, tiragem))
+    pdf = createGraphics(int(width * 0.75), int(height * 0.75), PDF, "desenho0-{}-{}.pdf".format(rnd_seed, tiragem))
+    beginRecord(pdf)
     noFill()
     for i in range(tiragem):
+        pdf.scale(0.75)
         background(255)
         shape(frente)
         pdf.nextPage()
+        pdf.scale(0.75)
         background(255)
         shape(verso)
         textSize(11)        
         text('generate({})'.format(rnd_seed), 52, 266)
         with pushMatrix():
             largura_miolo = width - 110
-            translate(width / 2, height - 55 - largura_miolo / 2)    
-            largura_miolo = width - 110
+            translate(width / 2, height - 55 - largura_miolo / 2) 
+            # fill(255, 0, 0)
+            # circle(0, 0, 100)
+            # noFill()
             for n, v in nodes.items():
                 ia, ja, ka = n
                 ib, jb, gen = v
@@ -100,8 +102,8 @@ def ij_to_xy(i, j):
 
 def visible(i, j):
     x, y = ij_to_xy(i, j)
-    return (abs(x) < width / 2 - W * 2 and
-            abs(y) < width / 2 - W * 2) # square
+    return (abs(x) < width / 2 - W * 4 and
+            abs(y) < width / 2 - W * 4) # square
 
 def hexagon(xo, yo, r):
     ang = TWO_PI / 6
