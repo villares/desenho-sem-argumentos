@@ -6,11 +6,11 @@
 
 <h2 style="font-family: inconsolata, monospace;">desenho() #1 outubro de 2022</h2>
 
-Em breve aqui mais informações sobre a edição do zine/poster distribuída na [Python Brasil 2022 Manaus](https://2022.pythonbrasil.org.br/) !
+Em breve aqui mais informações sobre a edição do zine/poster que foi distribuída na [Python Brasil 2022 Manaus](https://2022.pythonbrasil.org.br/) !
 
 Se você quiser contribuir, faça um PIX para a chave `46c37783-5edb-4f1c-b3a8-1309db11488c`, ou uma doação em [gumroad.com/villares](https://gumroad.com/l/desenho1), com a opção de pedir o envio de um exemplar pelo correio!.
 
-O código vai ser publicado aqui também.
+Todo o código vai ser publicado aqui também.
 
 **ERRATA/ATUALIZAÇÃO!** - Ficaram faltando algumas URLs na parte da frente do zine, vou acrescentar aqui e no "gerador". 
 
