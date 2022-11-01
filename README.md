@@ -12,6 +12,8 @@ Se você quiser contribuir, faça um PIX para a chave `46c37783-5edb-4f1c-b3a8-1
 
 Todo o código vai ser publicado aqui também.
 
+Agradecimentos: Clarissa R Mendes, Yorik van Havre, Aivar Annamaa, Organização da Python Brasil 2022 Manaus, Mariatta Wijaya, Luciano Ramalho, Fernando Masanori. 
+
 **ERRATA/ATUALIZAÇÃO!** - Ficaram faltando algumas URLs na parte da frente do zine, vou acrescentar aqui e no "gerador". 
 
 ---
