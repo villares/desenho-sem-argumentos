@@ -1,10 +1,16 @@
 <div style="font-family: inconsolata, monospace; font-size: 0.7em">"""Para desenhar com código, para desenhar junto, com o computador e com outras pessoas!"""</div>
 ---
+![2022-11-01_11-23](https://user-images.githubusercontent.com/3694604/199259593-dad7e3a5-a1c8-420a-9c05-4a0b18bc54a9.png)
 
 <h2 style="font-family: inconsolata, monospace;">desenho() #1 outubro de 2022</h2>
 
-Em breve aqui mais informações sobre a próxima edição do zine/poster!
-Se você quiser contribuir, faça um PIX para a chave `46c37783-5edb-4f1c-b3a8-1309db11488c`, ou uma doação em [gumroad.com/villares](https://gumroad.com/l/desenho1).
+Em breve aqui mais informações sobre a edição do zine/poster distribuída na [Python Brasil 2022 Manaus](https://2022.pythonbrasil.org.br/) !
+
+Se você quiser contribuir, faça um PIX para a chave `46c37783-5edb-4f1c-b3a8-1309db11488c`, ou uma doação em [gumroad.com/villares](https://gumroad.com/l/desenho1), com a opção de pedir o envio de um exemplar pelo correio!.
+
+O código vai ser publicado aqui também.
+
+**ERRATA/ATUALIZAÇÃO!** - Ficaram faltando algumas URLs na parte da frente do zine, vou acrescentar aqui e no "gerador". 
 
 ---
 ![gif animado com amostras da publicação](assets/amostra-desenho0.gif)
