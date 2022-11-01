@@ -18,7 +18,10 @@ Todo o código vai ser publicado aqui também.
 ![gif animado com amostras da publicação](assets/amostra-desenho0.gif)
 
 <h2 style="font-family: inconsolata, monospace;">desenho() #0 outubro de 2019</h2>
-A primeira edição, feita para ser distribuída gratuitamente na [Python Brasil 2019 Ribeirão Preto](https://2019.pythonbrasil.org.br/), é uma espécie de zine, fôlder e pôster. Cada exemplar é para ser único, e foram impressos inicialmente 200. Veja também [Slides da minha apresentação na Python Brasil](https://abav.lugaralgum.com/palestras/pybr2019/)!
+
+A primeira edição, feita para ser distribuída gratuitamente na [Python Brasil 2019 Ribeirão Preto](https://2019.pythonbrasil.org.br/), é uma espécie de zine, fôlder e pôster. Cada exemplar é para ser único, e foram impressos inicialmente 200.
+
+Veja também [Slides da minha apresentação na Python Brasil](https://abav.lugaralgum.com/palestras/pybr2019/)!
 
 Para executar o [código da edição #0 outubro 2019](https://github.com/villares/desenho-sem-argumentos/tree/master/0_outubro_2019), instale o Processing modo Python ([instruções](https://abav.lugaralgum.com/como-instalar-o-processing-modo-python/)).
 
