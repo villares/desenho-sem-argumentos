@@ -183,8 +183,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="2.3187245"
-     inkscape:cx="683.7811"
-     inkscape:cy="1085.0793"
+     inkscape:cx="235.25865"
+     inkscape:cy="1073.2193"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -2587,111 +2587,113 @@
    transform="matrix(0,-1,-1,0,-298.54264,-593.57957)"><tspan
      x="-1164.2131"
      y="-554.89484"
-     id="tspan4127"><tspan
+     id="tspan7101"><tspan
        style="font-weight:bold;-inkscape-font-specification:'Inconsolata Bold'"
-       id="tspan4125">pyp5js
+       id="tspan7099">pyp5js
 </tspan></tspan><tspan
      x="-1164.2131"
      y="-545.80734"
-     id="tspan4131">&lt;berinhard.github.io/pyp5js/pyodide&gt;<tspan
+     id="tspan7105">&lt;berinhard.github.io/pyp5js/pyodide&gt;<tspan
    style="font-weight:bold;-inkscape-font-specification:'Inconsolata Bold'"
-   id="tspan4129">
+   id="tspan7103">
 </tspan></tspan><tspan
      x="-1164.2131"
      y="-536.71982"
-     id="tspan4133">
+     id="tspan7107">
 </tspan><tspan
      x="-1164.2131"
      y="-527.63229"
-     id="tspan4137">Conheça o projeto que junta <tspan
+     id="tspan7111">Conheça o projeto que junta <tspan
    style="font-weight:bold"
-   id="tspan4135">p5js </tspan></tspan><tspan
+   id="tspan7109">p5js </tspan></tspan><tspan
      x="-1164.2131"
      y="-518.54477"
-     id="tspan4139">&lt;p5js.org&gt;, que traz o vocabulário de </tspan><tspan
+     id="tspan7113">&lt;p5js.org&gt;, que traz o vocabulário de </tspan><tspan
      x="-1164.2131"
      y="-509.45724"
-     id="tspan4143">desenho do <tspan
+     id="tspan7117">desenho do <tspan
    style="font-weight:bold"
-   id="tspan4141">Processing</tspan> para a web em </tspan><tspan
+   id="tspan7115">Processing</tspan> para a web em </tspan><tspan
      x="-1164.2131"
      y="-500.36975"
-     id="tspan4147">um canvas <tspan
+     id="tspan7121">um canvas <tspan
    style="font-weight:bold"
-   id="tspan4145">Javascript</tspan>, usando um </tspan><tspan
+   id="tspan7119">Javascript</tspan>, usando um </tspan><tspan
      x="-1164.2131"
      y="-491.28225"
-     id="tspan4149">editor Python direto no seu navegador </tspan><tspan
+     id="tspan7123">editor Python direto no seu navegador </tspan><tspan
      x="-1164.2131"
      y="-482.19476"
-     id="tspan4153">usando <tspan
+     id="tspan7127">usando <tspan
    style="font-weight:bold"
-   id="tspan4151">pyodide</tspan>, sem ter que instalar </tspan><tspan
+   id="tspan7125">pyodide</tspan>, sem ter que instalar </tspan><tspan
      x="-1164.2131"
      y="-473.10727"
-     id="tspan4155">nada!
+     id="tspan7129">nada!
 </tspan><tspan
      x="-1164.2131"
      y="-464.01977"
-     id="tspan4157">
+     id="tspan7131">
 </tspan><tspan
      x="-1164.2131"
      y="-454.93228"
-     id="tspan4161">O <tspan
+     id="tspan7135">O <tspan
    style="font-weight:bold"
-   id="tspan4159">pyodide</tspan> é um interpretador Python 3 </tspan><tspan
+   id="tspan7133">pyodide</tspan> é um interpretador Python 3 </tspan><tspan
      x="-1164.2131"
      y="-445.84478"
-     id="tspan4163">que funciona com a tecnoloagia Web </tspan><tspan
+     id="tspan7137">que funciona com a tecnologia Web </tspan><tspan
      x="-1164.2131"
      y="-436.75729"
-     id="tspan4167"><tspan
+     id="tspan7141"><tspan
    style="font-weight:bold"
-   id="tspan4165">Assembly</tspan> (WASM) a mesma que faz </tspan><tspan
+   id="tspan7139">Assembly</tspan> (WASM) a mesma que faz </tspan><tspan
      x="-1164.2131"
      y="-427.6698"
-     id="tspan4171">funcionar o <tspan
+     id="tspan7145">funcionar o <tspan
    style="font-weight:bold"
-   id="tspan4169">pyscript </tspan>&lt;pyscript.net&gt;
+   id="tspan7143">pyscript </tspan>&lt;pyscript.net&gt;
 </tspan><tspan
      x="-1164.2131"
      y="-418.5823"
-     id="tspan4173">
+     id="tspan7147">
 </tspan><tspan
      x="-1164.2131"
      y="-409.49481"
-     id="tspan4175">Você pode compartilhar o seus </tspan><tspan
+     id="tspan7149">Você pode compartilhar o seus </tspan><tspan
      x="-1164.2131"
      y="-400.40732"
-     id="tspan4179"><tspan
+     id="tspan7153"><tspan
    style="font-style:italic"
-   id="tspan4177">sketches </tspan>com um link especial que põe </tspan><tspan
+   id="tspan7151">sketches </tspan>com um link especial que põe </tspan><tspan
      x="-1164.2131"
      y="-391.31982"
-     id="tspan4181">o código na URL:
+     id="tspan7155">o código na URL.
 </tspan><tspan
      x="-1164.2131"
      y="-382.23233"
-     id="tspan4183">
+     id="tspan7157">
 </tspan><tspan
      x="-1164.2131"
      y="-373.14483"
-     id="tspan4185">Esperimente um tabuleiro de xadrez </tspan><tspan
+     id="tspan7159">Experimente um tabuleiro de xadrez </tspan><tspan
      x="-1164.2131"
      y="-364.05734"
-     id="tspan4187">com emojis:
+     id="tspan7163">com emojis: <tspan
+   style="font-weight:bold"
+   id="tspan7161">https://t.ly/lvFi</tspan> 
 </tspan><tspan
      x="-1164.2131"
      y="-354.96985"
-     id="tspan4189">.
+     id="tspan7165">.
 </tspan><tspan
      x="-1164.2131"
      y="-345.88235"
-     id="tspan4191">
+     id="tspan7167">
 </tspan><tspan
      x="-1164.2131"
      y="-336.79486"
-     id="tspan4193">
+     id="tspan7169">
 </tspan></text>
 
 
@@ -2838,97 +2840,97 @@
    transform="matrix(0,-1,-1,0,0,0)"><tspan
      x="-570.6333"
      y="-537.3678"
-     id="tspan4197"><tspan
+     id="tspan7173"><tspan
        style="font-weight:bold;-inkscape-font-specification:'Inconsolata Bold'"
-       id="tspan4195">FreeCAD
+       id="tspan7171">FreeCAD
 </tspan></tspan><tspan
      x="-570.6333"
      y="-528.2803"
-     id="tspan4201">&lt;www.freecadweb.org&gt;<tspan
+     id="tspan7177">&lt;www.freecadweb.org&gt;<tspan
    style="font-weight:bold;-inkscape-font-specification:'Inconsolata Bold'"
-   id="tspan4199">
+   id="tspan7175">
 </tspan></tspan><tspan
      x="-570.6333"
      y="-519.19278"
-     id="tspan4203">
+     id="tspan7179">
 </tspan><tspan
      x="-570.6333"
      y="-510.10525"
-     id="tspan4205">Conheça o incrível CAD modelador </tspan><tspan
+     id="tspan7181">Conheça o incrível CAD modelador </tspan><tspan
      x="-570.6333"
      y="-501.01776"
-     id="tspan4207">3D paramétrico livre que tem a </tspan><tspan
+     id="tspan7183">3D paramétrico livre que tem a </tspan><tspan
      x="-570.6333"
      y="-491.93026"
-     id="tspan4209">interface feita em Python.  
+     id="tspan7185">interface feita em Python.  
 </tspan><tspan
      x="-570.6333"
      y="-482.84277"
-     id="tspan4211">
+     id="tspan7187">
 </tspan><tspan
      x="-570.6333"
      y="-473.75528"
-     id="tspan4213">Você pode ver no console Python o 
+     id="tspan7189">Você pode ver no console Python o 
 </tspan><tspan
      x="-570.6333"
      y="-464.66778"
-     id="tspan4215">equivalente de todos os comandos
+     id="tspan7191">equivalente de todos os comandos
 </tspan><tspan
      x="-570.6333"
      y="-455.58029"
-     id="tspan4217">que foram feitos &quot;manualmente&quot; e
+     id="tspan7193">que foram feitos &quot;manualmente&quot; e
 </tspan><tspan
      x="-570.6333"
      y="-446.49279"
-     id="tspan4219">começar entender como automatizar
+     id="tspan7195">começar entender como automatizar
 </tspan><tspan
      x="-570.6333"
      y="-437.4053"
-     id="tspan4221">ações.
+     id="tspan7197">ações.
 </tspan><tspan
      x="-570.6333"
      y="-428.31781"
-     id="tspan4223">
+     id="tspan7199">
 </tspan><tspan
      x="-570.6333"
      y="-419.23031"
-     id="tspan4225">Na janela &quot;Macro&quot; você tem um </tspan><tspan
+     id="tspan7201">Na janela &quot;Macro&quot; você tem um </tspan><tspan
      x="-570.6333"
      y="-410.14282"
-     id="tspan4227">editor onde pode criar, salvar e </tspan><tspan
+     id="tspan7203">editor onde pode criar, salvar e </tspan><tspan
      x="-570.6333"
      y="-401.05533"
-     id="tspan4229">executar scripts mais longos. No </tspan><tspan
+     id="tspan7205">executar scripts mais longos. No </tspan><tspan
      x="-570.6333"
      y="-391.96783"
-     id="tspan4231">exemplo ao lado uma placa com uma </tspan><tspan
+     id="tspan7207">exemplo ao lado uma placa com uma </tspan><tspan
      x="-570.6333"
      y="-382.88034"
-     id="tspan4233">matriz de furos cilíndricos.
+     id="tspan7209">matriz de furos cilíndricos.
 </tspan><tspan
      x="-570.6333"
      y="-373.79284"
-     id="tspan4235">
+     id="tspan7211">
 </tspan><tspan
      x="-570.6333"
      y="-364.70535"
-     id="tspan4237">Junte-se a comunidade usando, </tspan><tspan
+     id="tspan7213">Junte-se a comunidade usando, </tspan><tspan
      x="-570.6333"
      y="-355.61786"
-     id="tspan4239">tirando dúvidas no fórum </tspan><tspan
+     id="tspan7215">tirando dúvidas no fórum </tspan><tspan
      x="-570.6333"
      y="-346.53036"
-     id="tspan4241">&lt;forum.freecad.org&gt;, traduzindo </tspan><tspan
+     id="tspan7217">&lt;forum.freecad.org&gt;, traduzindo </tspan><tspan
      x="-570.6333"
      y="-337.44287"
-     id="tspan4243">material, documentando e </tspan><tspan
+     id="tspan7219">material, documentando e </tspan><tspan
      x="-570.6333"
      y="-328.35537"
-     id="tspan4245">compartilhando os seus projetos!
+     id="tspan7221">compartilhando os seus projetos!
 </tspan><tspan
      x="-570.6333"
      y="-319.26788"
-     id="tspan4247">
+     id="tspan7223">
 </tspan></text><text
    transform="matrix(1,0,0,-1,862.38207,482.17629)"
    id="text9453"
@@ -2938,319 +2940,319 @@
    xml:space="preserve"><tspan
      x="-561.66992"
      y="-547.69397"
-     id="tspan4249">
+     id="tspan7225">
 </tspan><tspan
      x="-561.66992"
      y="-540.4153"
-     id="tspan4253"><tspan
+     id="tspan7229"><tspan
    style="font-weight:bold"
-   id="tspan4251">py5</tspan> &lt;py5coding.org&gt; é uma biblioteca que faz uso do vocabulário e </tspan><tspan
+   id="tspan7227">py5</tspan> &lt;py5coding.org&gt; é uma biblioteca que faz uso do vocabulário e </tspan><tspan
      x="-561.66992"
      y="-533.13661"
-     id="tspan4257">da infraestrutura gráfica do <tspan
+     id="tspan7233">da infraestrutura gráfica do <tspan
    style="font-weight:bold"
-   id="tspan4255">Processing</tspan> &lt;processing.org&gt; em </tspan><tspan
+   id="tspan7231">Processing</tspan> &lt;processing.org&gt; em </tspan><tspan
      x="-561.66992"
      y="-525.85792"
-     id="tspan4261">conjunto com a linguagem <tspan
+     id="tspan7237">conjunto com a linguagem <tspan
    style="font-weight:bold"
-   id="tspan4259">Python </tspan>&lt;python.org&gt;.
+   id="tspan7235">Python </tspan>&lt;python.org&gt;.
 </tspan><tspan
      x="-561.66992"
      y="-518.57924"
-     id="tspan4263">
+     id="tspan7239">
 </tspan><tspan
      x="-561.66992"
      y="-511.30055"
-     id="tspan4267"><tspan
+     id="tspan7243"><tspan
    style="font-weight:bold"
-   id="tspan4265">Processing</tspan> é uma plataforma livre/aberta de programação largamente </tspan><tspan
+   id="tspan7241">Processing</tspan> é uma plataforma livre/aberta de programação largamente </tspan><tspan
      x="-561.66992"
      y="-504.02189"
-     id="tspan4269">utilizada por artistas e designers, assim como para o ensino de </tspan><tspan
+     id="tspan7245">utilizada por artistas e designers, assim como para o ensino de </tspan><tspan
      x="-561.66992"
      y="-496.74324"
-     id="tspan4271">programação num contexto visual. Permite gerar softwares </tspan><tspan
+     id="tspan7247">programação num contexto visual. Permite gerar softwares </tspan><tspan
      x="-561.66992"
      y="-489.46458"
-     id="tspan4273">interativos com os mais diversos propósitos e interfaces visuais, </tspan><tspan
+     id="tspan7249">interativos com os mais diversos propósitos e interfaces visuais, </tspan><tspan
      x="-561.66992"
      y="-482.18593"
-     id="tspan4275">assim como exportar imagens bitmap (PNG, JPG), animações ou </tspan><tspan
+     id="tspan7251">assim como exportar imagens bitmap (PNG, JPG), animações ou </tspan><tspan
      x="-561.66992"
      y="-474.90727"
-     id="tspan4277">arquivos vetoriais 2D e 3D (PDF e SVG entre outros). A comunidade </tspan><tspan
+     id="tspan7253">arquivos vetoriais 2D e 3D (PDF e SVG entre outros). A comunidade </tspan><tspan
      x="-561.66992"
      y="-467.62861"
-     id="tspan4279">desfruta de um rico ecossistema de pessoas que produzem recursos </tspan><tspan
+     id="tspan7255">desfruta de um rico ecossistema de pessoas que produzem recursos </tspan><tspan
      x="-561.66992"
      y="-460.34996"
-     id="tspan4281">como exemplos didáticos e bibliotecas de código livremente </tspan><tspan
+     id="tspan7257">como exemplos didáticos e bibliotecas de código livremente </tspan><tspan
      x="-561.66992"
      y="-453.0713"
-     id="tspan4283">compartilhadas.
+     id="tspan7259">compartilhadas.
 </tspan><tspan
      x="-561.66992"
      y="-445.79265"
-     id="tspan4287"><tspan
+     id="tspan7263"><tspan
        style="font-size:7.25px"
-       id="tspan4285">
+       id="tspan7261">
 </tspan></tspan><tspan
      x="-561.66992"
      y="-438.50484"
-     id="tspan4293"><tspan
+     id="tspan7269"><tspan
    style="font-size:7.25px"
-   id="tspan4289">Abaixo um exemplo de uso do </tspan><tspan
+   id="tspan7265">Abaixo um exemplo de uso do </tspan><tspan
    style="font-weight:bold"
-   id="tspan4291">py5</tspan>, que produz o desenho à equerda, </tspan><tspan
+   id="tspan7267">py5</tspan>, que produz o desenho à equerda, </tspan><tspan
      x="-561.66992"
      y="-431.21702"
-     id="tspan4297">escrito de maneira convencional em <tspan
+     id="tspan7273">escrito de maneira convencional em <tspan
    style="font-weight:bold"
-   id="tspan4295">Python</tspan>, iniciando com uma </tspan><tspan
+   id="tspan7271">Python</tspan>, iniciando com uma </tspan><tspan
      x="-561.66992"
      y="-423.93837"
-     id="tspan4301">instrução <tspan
+     id="tspan7277">instrução <tspan
    style="font-weight:bold"
-   id="tspan4299">import py5</tspan>, à direita o mesmo exemplo, escrito de uma </tspan><tspan
+   id="tspan7275">import py5</tspan>, à direita o mesmo exemplo, escrito de uma </tspan><tspan
      x="-561.66992"
      y="-416.65971"
-     id="tspan4305">forma mais abreviada, chamada <tspan
+     id="tspan7281">forma mais abreviada, chamada <tspan
    style="font-style:italic"
-   id="tspan4303">imported mode</tspan>, usando o plugin </tspan><tspan
+   id="tspan7279">imported mode</tspan>, usando o plugin </tspan><tspan
      x="-561.66992"
      y="-409.38106"
-     id="tspan4315"><tspan
+     id="tspan7291"><tspan
    style="font-weight:bold"
-   id="tspan4307">thonny-py5mode</tspan> dentro do <tspan
+   id="tspan7283">thonny-py5mode</tspan> dentro do <tspan
    style="font-weight:bold"
-   id="tspan4309">Thonny IDE</tspan>.<tspan
+   id="tspan7285">Thonny IDE</tspan>.<tspan
    style="font-weight:bold"
-   id="tspan4311">  </tspan><tspan
+   id="tspan7287">  </tspan><tspan
    style="font-size:7.25px"
-   id="tspan4313">
+   id="tspan7289">
 </tspan></tspan><tspan
      x="-561.66992"
      y="-402.09324"
-     id="tspan4319"><tspan
+     id="tspan7295"><tspan
        style="font-size:7.25px"
-       id="tspan4317">
+       id="tspan7293">
 </tspan></tspan><tspan
      x="-561.66992"
      y="-394.80543"
-     id="tspan4323"><tspan
+     id="tspan7299"><tspan
        style="font-size:7.25px"
-       id="tspan4321">
+       id="tspan7297">
 </tspan></tspan><tspan
      x="-561.66992"
      y="-387.51762"
-     id="tspan4327"><tspan
+     id="tspan7303"><tspan
        style="font-size:7.25px"
-       id="tspan4325">import py5
+       id="tspan7301">import py5
 </tspan></tspan><tspan
      x="-561.66992"
      y="-380.22981"
-     id="tspan4331"><tspan
+     id="tspan7307"><tspan
        style="font-size:7.25px"
-       id="tspan4329">
+       id="tspan7305">
 </tspan></tspan><tspan
      x="-561.66992"
      y="-372.942"
-     id="tspan4335"><tspan
+     id="tspan7311"><tspan
        style="font-size:7.25px"
-       id="tspan4333">def setup():
+       id="tspan7309">def setup():
 </tspan></tspan><tspan
      x="-561.66992"
      y="-365.65419"
-     id="tspan4339"><tspan
+     id="tspan7315"><tspan
        style="font-size:7.25px"
-       id="tspan4337">    py5.size(800, 800)
+       id="tspan7313">    py5.size(800, 800)
 </tspan></tspan><tspan
      x="-561.66992"
      y="-358.36638"
-     id="tspan4343"><tspan
+     id="tspan7319"><tspan
        style="font-size:7.25px"
-       id="tspan4341">    py5.background(200)
+       id="tspan7317">    py5.background(200)
 </tspan></tspan><tspan
      x="-561.66992"
      y="-351.07857"
-     id="tspan4347"><tspan
+     id="tspan7323"><tspan
        style="font-size:7.25px"
-       id="tspan4345">    py5.no_fill()
+       id="tspan7321">    py5.no_fill()
 </tspan></tspan><tspan
      x="-561.66992"
      y="-343.79075"
-     id="tspan4351"><tspan
+     id="tspan7327"><tspan
        style="font-size:7.25px"
-       id="tspan4349">    py5.no_loop()
+       id="tspan7325">    py5.no_loop()
 </tspan></tspan><tspan
      x="-561.66992"
      y="-336.50294"
-     id="tspan4355"><tspan
+     id="tspan7331"><tspan
        style="font-size:7.25px"
-       id="tspan4353">    py5.random_seed(1)
+       id="tspan7329">    py5.random_seed(1)
 </tspan></tspan><tspan
      x="-561.66992"
      y="-329.21513"
-     id="tspan4359"><tspan
+     id="tspan7335"><tspan
        style="font-size:7.25px"
-       id="tspan4357">
+       id="tspan7333">
 </tspan></tspan><tspan
      x="-561.66992"
      y="-321.92732"
-     id="tspan4363"><tspan
+     id="tspan7339"><tspan
        style="font-size:7.25px"
-       id="tspan4361">def draw():
+       id="tspan7337">def draw():
 </tspan></tspan><tspan
      x="-561.66992"
      y="-314.63951"
-     id="tspan4367"><tspan
+     id="tspan7343"><tspan
        style="font-size:7.25px"
-       id="tspan4365">    py5.background(200)
+       id="tspan7341">    py5.background(200)
 </tspan></tspan><tspan
      x="-561.66992"
      y="-307.3517"
-     id="tspan4371"><tspan
+     id="tspan7347"><tspan
        style="font-size:7.25px"
-       id="tspan4369">    x = y = py5.width / 2
+       id="tspan7345">    x = y = py5.width / 2
 </tspan></tspan><tspan
      x="-561.66992"
      y="-300.06389"
-     id="tspan4375"><tspan
+     id="tspan7351"><tspan
        style="font-size:7.25px"
-       id="tspan4373">    poligonos_recursivos(x, y, py5.width / 4)
+       id="tspan7349">    poligonos_recursivos(x, y, py5.width / 4)
 </tspan></tspan><tspan
      x="-561.66992"
      y="-292.77608"
-     id="tspan4379"><tspan
+     id="tspan7355"><tspan
        style="font-size:7.25px"
-       id="tspan4377">
+       id="tspan7353">
 </tspan></tspan><tspan
      x="-561.66992"
      y="-285.48826"
-     id="tspan4383"><tspan
+     id="tspan7359"><tspan
        style="font-size:7.25px"
-       id="tspan4381">def poligonos_recursivos(xo, yo, r, n=6):
+       id="tspan7357">def poligonos_recursivos(xo, yo, r, n=6):
 </tspan></tspan><tspan
      x="-561.66992"
      y="-278.20045"
-     id="tspan4387"><tspan
+     id="tspan7363"><tspan
        style="font-size:7.25px"
-       id="tspan4385">    a = py5.TWO_PI / n
+       id="tspan7361">    a = py5.TWO_PI / n
 </tspan></tspan><tspan
      x="-561.66992"
      y="-270.91264"
-     id="tspan4391"><tspan
+     id="tspan7367"><tspan
        style="font-size:7.25px"
-       id="tspan4389">    pontos = [(xo + r * py5.cos(i * a), yo + r * py5.sin(i * a))
+       id="tspan7365">    pontos = [(xo + r * py5.cos(i * a), yo + r * py5.sin(i * a))
 </tspan></tspan><tspan
      x="-561.66992"
      y="-263.62483"
-     id="tspan4395"><tspan
+     id="tspan7371"><tspan
        style="font-size:7.25px"
-       id="tspan4393">              for i in range(n)]
+       id="tspan7369">              for i in range(n)]
 </tspan></tspan><tspan
      x="-561.66992"
      y="-256.33702"
-     id="tspan4399"><tspan
+     id="tspan7375"><tspan
        style="font-size:7.25px"
-       id="tspan4397">    sorteio = py5.random_choice((True, False))
+       id="tspan7373">    sorteio = py5.random_choice((True, False))
 </tspan></tspan><tspan
      x="-561.66992"
      y="-249.04922"
-     id="tspan4403"><tspan
+     id="tspan7379"><tspan
        style="font-size:7.25px"
-       id="tspan4401">    w = py5.width
+       id="tspan7377">    w = py5.width
 </tspan></tspan><tspan
      x="-561.66992"
      y="-241.76143"
-     id="tspan4407"><tspan
+     id="tspan7383"><tspan
        style="font-size:7.25px"
-       id="tspan4405">    if r &gt; w / 10 or (sorteio and r &gt; w / 200):
+       id="tspan7381">    if r &gt; w / 10 or (sorteio and r &gt; w / 200):
 </tspan></tspan><tspan
      x="-561.66992"
      y="-234.47363"
-     id="tspan4411"><tspan
+     id="tspan7387"><tspan
        style="font-size:7.25px"
-       id="tspan4409">        for x, y in pontos:
+       id="tspan7385">        for x, y in pontos:
 </tspan></tspan><tspan
      x="-561.66992"
      y="-227.18584"
-     id="tspan4415"><tspan
+     id="tspan7391"><tspan
        style="font-size:7.25px"
-       id="tspan4413">            py5.stroke_weight(r / 50)
+       id="tspan7389">            py5.stroke_weight(r / 50)
 </tspan></tspan><tspan
      x="-561.66992"
      y="-219.89804"
-     id="tspan4419"><tspan
+     id="tspan7395"><tspan
        style="font-size:7.25px"
-       id="tspan4417">            py5.line(x, y, xo, yo)
+       id="tspan7393">            py5.line(x, y, xo, yo)
 </tspan></tspan><tspan
      x="-561.66992"
      y="-212.61024"
-     id="tspan4423"><tspan
+     id="tspan7399"><tspan
        style="font-size:7.25px"
-       id="tspan4421">            poligonos_recursivos(x, y, r / 2, n)
+       id="tspan7397">            poligonos_recursivos(x, y, r / 2, n)
 </tspan></tspan><tspan
      x="-561.66992"
      y="-205.32245"
-     id="tspan4427"><tspan
+     id="tspan7403"><tspan
        style="font-size:7.25px"
-       id="tspan4425">    else:
+       id="tspan7401">    else:
 </tspan></tspan><tspan
      x="-561.66992"
      y="-198.03465"
-     id="tspan4431"><tspan
+     id="tspan7407"><tspan
        style="font-size:7.25px"
-       id="tspan4429">        py5.stroke_weight(r / 10)
+       id="tspan7405">        py5.stroke_weight(r / 10)
 </tspan></tspan><tspan
      x="-561.66992"
      y="-190.74686"
-     id="tspan4435"><tspan
+     id="tspan7411"><tspan
        style="font-size:7.25px"
-       id="tspan4433">        with py5.begin_closed_shape():
+       id="tspan7409">        with py5.begin_closed_shape():
 </tspan></tspan><tspan
      x="-561.66992"
      y="-183.45906"
-     id="tspan4439"><tspan
+     id="tspan7415"><tspan
        style="font-size:7.25px"
-       id="tspan4437">            py5.vertices(pontos)
+       id="tspan7413">            py5.vertices(pontos)
 </tspan></tspan><tspan
      x="-561.66992"
      y="-176.17126"
-     id="tspan4443"><tspan
+     id="tspan7419"><tspan
        style="font-size:7.25px"
-       id="tspan4441">
+       id="tspan7417">
 </tspan></tspan><tspan
      x="-561.66992"
      y="-168.88347"
-     id="tspan4447"><tspan
+     id="tspan7423"><tspan
        style="font-size:7.25px"
-       id="tspan4445">def key_pressed(e):
+       id="tspan7421">def key_pressed(e):
 </tspan></tspan><tspan
      x="-561.66992"
      y="-161.59567"
-     id="tspan4451"><tspan
+     id="tspan7427"><tspan
        style="font-size:7.25px"
-       id="tspan4449">    py5.save_frame('imagem.png')
+       id="tspan7425">    py5.save_frame('imagem.png')
 </tspan></tspan><tspan
      x="-561.66992"
      y="-154.30788"
-     id="tspan4455"><tspan
+     id="tspan7431"><tspan
        style="font-size:7.25px"
-       id="tspan4453">    py5.redraw()
+       id="tspan7429">    py5.redraw()
 </tspan></tspan><tspan
      x="-561.66992"
      y="-147.02008"
-     id="tspan4459"><tspan
+     id="tspan7435"><tspan
        style="font-size:7.25px"
-       id="tspan4457">
+       id="tspan7433">
 </tspan></tspan><tspan
      x="-561.66992"
      y="-139.73228"
-     id="tspan4463"><tspan
+     id="tspan7439"><tspan
        style="font-size:7.25px"
-       id="tspan4461">py5.run_sketch()</tspan></tspan></text><text
+       id="tspan7437">py5.run_sketch()</tspan></tspan></text><text
    transform="matrix(0,-1,-1,0,-18.861654,-39.824103)"
    y="-547.69397"
    x="-561.66992"
@@ -3259,15 +3261,15 @@
    id="text9583"><tspan
      x="-561.66992"
      y="-547.69397"
-     id="tspan4467"><tspan
+     id="tspan7443"><tspan
        style="font-style:italic;font-size:6px"
-       id="tspan4465">
+       id="tspan7441">
 </tspan></tspan><tspan
      x="-561.66992"
      y="-540.00758"
-     id="tspan4471"><tspan
+     id="tspan7447"><tspan
        style="font-style:italic;font-size:6px"
-       id="tspan4469">
+       id="tspan7445">
 </tspan></tspan></text><text
    transform="matrix(0,-1,-1,0,-183.69482,-7.6188429)"
    y="-547.69397"
@@ -3363,51 +3365,51 @@
    xml:space="preserve"><tspan
      x="-561.66992"
      y="-547.69397"
-     id="tspan4475">O <tspan
+     id="tspan7451">O <tspan
    style="font-weight:bold"
-   id="tspan4473">Thonny IDE</tspan> &lt;thonny.org&gt; é um ambiente de desenvimento pensado </tspan><tspan
+   id="tspan7449">Thonny IDE</tspan> &lt;thonny.org&gt; é um ambiente de desenvimento pensado </tspan><tspan
      x="-561.66992"
      y="-540.4153"
-     id="tspan4479">para iniciantes que já vem com <tspan
+     id="tspan7455">para iniciantes que já vem com <tspan
    style="font-weight:bold"
-   id="tspan4477">Python 3</tspan>, um projeto aberto que </tspan><tspan
+   id="tspan7453">Python 3</tspan>, um projeto aberto que </tspan><tspan
      x="-561.66992"
      y="-533.13661"
-     id="tspan4481">merece a sua atenção!
+     id="tspan7457">merece a sua atenção!
 </tspan><tspan
      x="-561.66992"
      y="-525.85792"
-     id="tspan4483">
+     id="tspan7459">
 </tspan><tspan
      x="-561.66992"
      y="-518.57924"
-     id="tspan4489">Instalando no <tspan
+     id="tspan7465">Instalando no <tspan
    style="font-weight:bold"
-   id="tspan4485">Thonny</tspan> o plugin <tspan
+   id="tspan7461">Thonny</tspan> o plugin <tspan
    style="font-weight:bold"
-   id="tspan4487">thonny-py5mode</tspan>, ele instala </tspan><tspan
+   id="tspan7463">thonny-py5mode</tspan>, ele instala </tspan><tspan
      x="-561.66992"
      y="-511.30055"
-     id="tspan4493">biblioteca <tspan
+     id="tspan7469">biblioteca <tspan
    style="font-weight:bold"
-   id="tspan4491">py5 </tspan>e baixa e configura suas dependências (como o </tspan><tspan
+   id="tspan7467">py5 </tspan>e baixa e configura suas dependências (como o </tspan><tspan
      x="-561.66992"
      y="-504.02189"
-     id="tspan4497">JDK), acrescentando o menu <tspan
+     id="tspan7473">JDK), acrescentando o menu <tspan
    style="font-weight:bold"
-   id="tspan4495">py5 </tspan>que facilita a utilização!
+   id="tspan7471">py5 </tspan>que facilita a utilização!
 </tspan><tspan
      x="-561.66992"
      y="-496.74324"
-     id="tspan4499">
+     id="tspan7475">
 </tspan><tspan
      x="-561.66992"
      y="-489.46458"
-     id="tspan4501">Saiba mais em:
+     id="tspan7477">Saiba mais em:
 </tspan><tspan
      x="-561.66992"
      y="-482.18593"
-     id="tspan4503">&lt;https://abav.lugaralgum.com/como-instalar-py5/&gt;</tspan></text><text
+     id="tspan7479">&lt;https://abav.lugaralgum.com/como-instalar-py5/&gt;</tspan></text><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:5.72926px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.859389"
    x="587.24841"
@@ -3427,125 +3429,125 @@
    transform="matrix(0.76030902,0,0,-0.76030902,136.65386,176.51756)"><tspan
      x="594.45319"
      y="-792.10272"
-     id="tspan4507"><tspan
+     id="tspan7483"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4505">
+       id="tspan7481">
 </tspan></tspan><tspan
      x="594.45319"
      y="-782.47269"
-     id="tspan4511"><tspan
+     id="tspan7487"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4509">
+       id="tspan7485">
 </tspan></tspan><tspan
      x="594.45319"
      y="-772.84269"
-     id="tspan4515"><tspan
+     id="tspan7491"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4513">Um trecho da missão da Fundação Processing:
+       id="tspan7489">Um trecho da missão da Fundação Processing:
 </tspan></tspan><tspan
      x="594.45319"
      y="-763.21268"
-     id="tspan4519"><tspan
+     id="tspan7495"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4517">
+       id="tspan7493">
 </tspan></tspan><tspan
      x="594.45319"
      y="-753.83768"
-     id="tspan4523"><tspan
+     id="tspan7499"><tspan
        style="font-style:italic"
-       id="tspan4521">  «[...] promover o letramento em software nas artes visuais e o letramento  
+       id="tspan7497">  «[...] promover o letramento em software nas artes visuais e o letramento  
 </tspan></tspan><tspan
      x="594.45319"
      y="-744.46268"
-     id="tspan4527"><tspan
+     id="tspan7503"><tspan
        style="font-style:italic"
-       id="tspan4525">  visual nos campos relacionados à tecnologia- assim como tornar esses 
+       id="tspan7501">  visual nos campos relacionados à tecnologia- assim como tornar esses 
 </tspan></tspan><tspan
      x="594.45319"
      y="-735.08768"
-     id="tspan4531"><tspan
+     id="tspan7507"><tspan
        style="font-style:italic"
-       id="tspan4529">  campos acessíveis a diversas comunidades. Nosso objetivo é capacitar 
+       id="tspan7505">  campos acessíveis a diversas comunidades. Nosso objetivo é capacitar 
 </tspan></tspan><tspan
      x="594.45319"
      y="-725.71268"
-     id="tspan4535"><tspan
+     id="tspan7511"><tspan
        style="font-style:italic"
-       id="tspan4533">  pessoas de todas os interesses e origens a aprender como programar e 
+       id="tspan7509">  pessoas de todas os interesses e origens a aprender como programar e 
 </tspan></tspan><tspan
      x="594.45319"
      y="-716.33768"
-     id="tspan4539"><tspan
+     id="tspan7515"><tspan
        style="font-style:italic"
-       id="tspan4537">  fazer trabalho criativo com código, especialmente aqueles que de outra 
+       id="tspan7513">  fazer trabalho criativo com código, especialmente aqueles que de outra 
 </tspan></tspan><tspan
      x="594.45319"
      y="-706.70768"
-     id="tspan4545"><tspan
+     id="tspan7521"><tspan
        style="font-style:italic"
-       id="tspan4541">  forma não teriam acesso a essas ferramentas e recursos.»</tspan><tspan
+       id="tspan7517">  forma não teriam acesso a essas ferramentas e recursos.»</tspan><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4543">
+       id="tspan7519">
 </tspan></tspan><tspan
      x="594.45319"
      y="-697.07767"
-     id="tspan4549"><tspan
+     id="tspan7525"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4547">
+       id="tspan7523">
 </tspan></tspan><tspan
      x="594.45319"
      y="-687.44767"
-     id="tspan4553"><tspan
+     id="tspan7529"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4551">Processing é baseada originalmente na linguagem de programação Java, mas hoje </tspan></tspan><tspan
+       id="tspan7527">Processing é baseada originalmente na linguagem de programação Java, mas hoje </tspan></tspan><tspan
      x="594.45319"
      y="-677.81767"
-     id="tspan4557"><tspan
+     id="tspan7533"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4555">existem diversos projetos que desenvolvem as ideias do Processing com outras </tspan></tspan><tspan
+       id="tspan7531">existem diversos projetos que desenvolvem as ideias do Processing com outras </tspan></tspan><tspan
      x="594.45319"
      y="-668.18766"
-     id="tspan4561"><tspan
+     id="tspan7537"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4559">linguagens, como é o caso do p5js com Javascript (acessível via Python/pyodide </tspan></tspan><tspan
+       id="tspan7535">linguagens, como é o caso do p5js com Javascript (acessível via Python/pyodide </tspan></tspan><tspan
      x="594.45319"
      y="-658.55766"
-     id="tspan4565"><tspan
+     id="tspan7541"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4563">com pyp5js), Processing modo Python (Jython 2.7), JRubyArt com Ruby, e mais </tspan></tspan><tspan
+       id="tspan7539">com pyp5js), Processing modo Python (Jython 2.7), JRubyArt com Ruby, e mais </tspan></tspan><tspan
      x="594.45319"
      y="-648.92765"
-     id="tspan4569"><tspan
+     id="tspan7545"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4567">recentemente p5py e o py5 no Python 3. Além disso, existem muitos outros </tspan></tspan><tspan
+       id="tspan7543">recentemente p5py e o py5 no Python 3. Além disso, existem muitos outros </tspan></tspan><tspan
      x="594.45319"
      y="-639.29765"
-     id="tspan4573"><tspan
+     id="tspan7549"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4571">projetos que sofreram a influência de Processing, como OpenFrameworks baseado </tspan></tspan><tspan
+       id="tspan7547">projetos que sofreram a influência de Processing, como OpenFrameworks baseado </tspan></tspan><tspan
      x="594.45319"
      y="-629.66764"
-     id="tspan4577"><tspan
+     id="tspan7553"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4575">em C++, OPENRNDR em Kotlin, drawbot, nodebox, shoebot &lt;shoebot.net&gt; com Python.
+       id="tspan7551">em C++, OPENRNDR em Kotlin, drawbot, nodebox, shoebot &lt;shoebot.net&gt; com Python.
 </tspan></tspan><tspan
      x="594.45319"
      y="-620.03764"
-     id="tspan4581"><tspan
+     id="tspan7557"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4579">
+       id="tspan7555">
 </tspan></tspan><tspan
      x="594.45319"
      y="-610.40763"
-     id="tspan4585"><tspan
+     id="tspan7561"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4583">Veja mais opções de desenho com Python em:
+       id="tspan7559">Veja mais opções de desenho com Python em:
 </tspan></tspan><tspan
      x="594.45319"
      y="-600.77763"
-     id="tspan4589"><tspan
+     id="tspan7565"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4587">&lt;https://github.com/villares/resources-for-teaching-programming&gt;</tspan></tspan></text><text
+       id="tspan7563">&lt;https://github.com/villares/resources-for-teaching-programming&gt;</tspan></tspan></text><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:298.377;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
    x="594.45319"
@@ -3554,31 +3556,31 @@
    id="text7004"><tspan
      x="594.45319"
      y="-792.10272"
-     id="tspan4593"><tspan
+     id="tspan7569"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4591">
+       id="tspan7567">
 </tspan></tspan><tspan
      x="594.45319"
      y="-782.47269"
-     id="tspan4597"><tspan
+     id="tspan7573"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4595">
+       id="tspan7571">
 </tspan></tspan><tspan
      x="594.45319"
      y="-772.84269"
-     id="tspan4601"><tspan
+     id="tspan7577"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4599">
+       id="tspan7575">
 </tspan></tspan><tspan
      x="594.45319"
      y="-763.21268"
-     id="tspan4605"><tspan
+     id="tspan7581"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4603">
+       id="tspan7579">
 </tspan></tspan><tspan
      x="594.45319"
      y="-753.58268"
-     id="tspan4609"><tspan
+     id="tspan7585"><tspan
        style="font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-       id="tspan4607">
+       id="tspan7583">
 </tspan></tspan></text></g></svg>
