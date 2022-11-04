@@ -14,7 +14,20 @@ Todo o código vai ser publicado aqui também.
 
 Agradecimentos: Clarissa R Mendes, Yorik van Havre, Aivar Annamaa, Organização da Python Brasil 2022 Manaus, Mariatta Wijaya, Luciano Ramalho, Fernando Masanori. 
 
-**ERRATA/ATUALIZAÇÃO!** - Ficaram faltando algumas URLs na parte da frente do zine, vou acrescentar aqui e no "gerador". 
+**ERRATA/ATUALIZAÇÃO!** - Corrigi alguns erros de digitação e acrescentei a URL do tabuleiro de xadrez [https://t.ly/lvFi](https://t.ly/lvFi). 
+
+```
+pyp5js
+<berinhard.github.io/pyp5js/pyodide>
+
+Conheça o projeto que junta p5js <p5js.org>, que traz o vocabulário de desenho do Processing para a web em um canvas Javascript, usando um editor Python direto no seu navegador usando pyodide, sem ter que instalar nada!
+
+O pyodide é um interpretador Python 3 que funciona com a tecnologia Web Assembly (WASM) a mesma que faz funcionar o pyscript <pyscript.net>
+
+Você pode compartilhar o seus sketches com um link especial que põe o código na URL.
+
+Experimente um tabuleiro de xadrez com emojis: https://t.ly/lvFi 
+``` 
 
 ---
 ![gif animado com amostras da publicação](assets/amostra-desenho0.gif)
