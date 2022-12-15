@@ -8,7 +8,9 @@
 
 Esta é a edição do zine/poster que foi distribuída na [Python Brasil 2022 Manaus](https://2022.pythonbrasil.org.br/) !
 
-O código que gera o zine completo está [aqui](https://github.com/villares/desenho-sem-argumentos/tree/main/1_outubro_2022). Devido a um bug no Processing 4 Java que é usado como infraestrutura pelo py5 ([mas que já está pra ser corrigido graças ao @Vepo](https://github.com/processing/processing4/pull/599)!) precissei gerar o zine ainda com o Processing Python Mode (que usa a infra do Processing 3). O código do pôster, que foi escrito inicialmente usando py5 está aí também.
+O código que gera o zine completo está [aqui](https://github.com/villares/desenho-sem-argumentos/tree/main/1_outubro_2022). 
+
+<sub>Devido a um bug no Processing 4 Java que é usado como infraestrutura pelo py5 ([mas que já está pra ser corrigido graças ao @Vepo](https://github.com/processing/processing4/pull/599)!) precissei gerar o zine ainda com o Processing Python Mode (que usa a infra do Processing 3). O código do pôster, que foi escrito inicialmente usando py5 está aí também.</sub>
 
 Agradecimentos: Clarissa R Mendes, Yorik van Havre, Aivar Annamaa, Organização da Python Brasil 2022 Manaus, Mariatta Wijaya, Luciano Ramalho, Fernando Masanori, Victor Osório e todos que apoiam os meus projetos! 
 
@@ -22,7 +24,6 @@ Se você quiser contribuir, faça um PIX para a chave `46c37783-5edb-4f1c-b3a8-1
 >    O pyodide é um interpretador Python 3 que funciona com a tecnologia Web Assembly (WASM) a mesma que faz funcionar o pyscript <pyscript.net>
 >    Você pode compartilhar o seus sketches com um link especial que põe o código na URL.
 >    Experimente um tabuleiro de xadrez com emojis: https://t.ly/lvFi 
-
 
 ---
 ![gif animado com amostras da publicação](assets/amostra-desenho0.gif)
