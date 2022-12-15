@@ -10,11 +10,11 @@ Esta é a edição do zine/poster que foi distribuída na [Python Brasil 2022 Ma
 
 O código que gera o zine completo está [aqui](https://github.com/villares/desenho-sem-argumentos/tree/main/1_outubro_2022). 
 
-<sub>Devido a um bug no Processing 4 Java que é usado como infraestrutura pelo py5 ([mas que já está pra ser corrigido graças ao @Vepo](https://github.com/processing/processing4/pull/599)!) precissei gerar o zine ainda com o Processing Python Mode (que usa a infra do Processing 3). O código do pôster, que foi escrito inicialmente usando py5 está aí também.</sub>
+<sub>Devido a um bug no Processing 4 Java que é usado como infraestrutura pelo py5 ([mas que já está pra ser corrigido graças ao @Vepo](https://github.com/processing/processing4/pull/599)!) precisei gerar o zine ainda com o Processing Python Mode (que usa a infra do Processing 3). O código do pôster, que foi escrito inicialmente usando py5 está aí também.</sub>
 
 Agradecimentos: Clarissa R Mendes, Yorik van Havre, Aivar Annamaa, Organização da Python Brasil 2022 Manaus, Mariatta Wijaya, Luciano Ramalho, Fernando Masanori, Victor Osório e todos que apoiam os meus projetos! 
 
-Se você quiser contribuir, faça um PIX para a chave `46c37783-5edb-4f1c-b3a8-1309db11488c`, ou mande uma doação em [gumroad.com/villares](https://gumroad.com/l/desenho1), com a opção de pedir o envio de um exemplar pelo correio!.
+Se você quiser contribuir, faça um PIX para a chave `46c37783-5edb-4f1c-b3a8-1309db11488c`, ou mande uma doação em [gumroad.com/villares](https://gumroad.com/l/desenho1), com a opção de pedir o envio de um exemplar pelo correio! Você também pode apoiar de maneira recorrente os meus projetos [aqui](https://villares.gumroad.com/l/aunif).
 
 **ERRATA/ATUALIZAÇÃO!** - Corrigi alguns erros de digitação e acrescentei a URL do tabuleiro de xadrez [https://t.ly/lvFi](https://t.ly/lvFi). 
 
