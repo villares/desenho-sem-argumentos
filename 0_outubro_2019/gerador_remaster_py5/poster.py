@@ -5,13 +5,30 @@ Poster desenho() #0_outubro_2019 versão 191020
 https://desenho.lugaralgum.com (para licenças, créditos e agradecimentos!)
 """
 
-from random import choice
+from random import choice, seed
 from elementos import casinha, estrela, olho
 
+def setup():
+    global s
+    size(1122, 1122)
+    no_loop()
+    s = 190920
+    seed(s)  # define random seed do Python (para choice)
+    random_seed(s)  # define random seed do Processing
+
+def draw():
+    background(255)
+    begin_record(PDF, 'poster-seed-{}.pdf'.format(s))
+    rect_mode(CENTER)
+    stroke_join(ROUND)
+    poster(width / 2, height / 2, 6, width - 100)
+    end_record()
+    
 def poster(xo, yo, divisoes, dim_total, elemento=None):
     """
     Faça desenho do poster usando subdivisões recursivas.
     """
+    rect_mode(CENTER)
     dim = dim_total / divisoes   # dimensão de célula da grade
     offset = (dim - dim_total) / 2
     for i in range(divisoes):
@@ -48,7 +65,7 @@ def desenha_elemento(x, y, w, seletor):
     if seletor == 0:  # estrela em preto
         fill(0)
         num_pontas = choice((5, 7, 9))
-        ra = w * .35
+        ra = w * 0.35
         rb = choice((w * 0.25, w * 0.15, w * 0.075))
         estrela(x, y, num_pontas, ra, rb)
     elif seletor == 1:  # casinha branca
