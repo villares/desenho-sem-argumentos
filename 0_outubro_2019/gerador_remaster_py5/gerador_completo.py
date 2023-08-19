@@ -11,8 +11,9 @@ def setup():
     size(1122, 1587)
     no_loop()
     
+    
     frente = load_shape('base_frente.svg')
-    verso = load_shape('b.svg')
+    verso = load_shape('base_poster_en.svg')
     """
     Aviso de erro quando tentei usar um VLW:
     Use createFont() instead of loadFont() when drawing text using the PDF library.
