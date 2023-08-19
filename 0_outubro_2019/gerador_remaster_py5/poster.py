@@ -21,7 +21,7 @@ def draw():
     begin_record(PDF, 'poster-seed-{}.pdf'.format(s))
     rect_mode(CENTER)
     stroke_join(ROUND)
-    poster(width / 2, height / 2, 6, width - 100)
+    poster(width / 2, height / 2, 6, width - 110)
     end_record()
     
 def poster(xo, yo, divisoes, dim_total, elemento=None):
