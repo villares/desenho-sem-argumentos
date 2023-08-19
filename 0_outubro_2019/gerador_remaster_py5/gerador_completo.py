@@ -1,5 +1,5 @@
 """
-Poster desenho() #0_outubro_2019 versão 191023a
+Poster desenho() #0_outubro_2019 versão 20230813
 https://desenho.lugaralgum.com (para licenças, créditos e agradecimentos!)
 """
 
@@ -12,7 +12,7 @@ def setup():
     no_loop()
     
     frente = load_shape('base_frente.svg')
-    verso = load_shape('base_poster.svg')
+    verso = load_shape('b.svg')
     """
     Aviso de erro quando tentei usar um VLW:
     Use createFont() instead of loadFont() when drawing text using the PDF library.
@@ -24,7 +24,7 @@ def setup():
     # 10 com 191111.
     # seed "master" da tiragem (não incluso para tiragem > 1)
     semente = random_seeds(191220)  
-    tiragem = 2
+    tiragem = 1
 
 def draw():
     """
@@ -50,11 +50,10 @@ def draw():
         shape(verso)    
         largura_miolo = width - 110
         poster(width / 2, height - 55 - largura_miolo / 2, 6, largura_miolo)
-        # fill(255, 0, 0) # vermelho para debug da posição
         text_font(f)
-        text_size(10.5)
-        fill(255, 0, 0)
-        text('s = '+str(semente), 47, 333)
+        text_size(11)
+        # fill(255, 0, 0)  # vermelho para debug da posição
+        text('s = '+str(semente), 48, 333)
         if i < tiragem - 1:
             pdf.next_page()
             
