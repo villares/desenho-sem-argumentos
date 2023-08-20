@@ -23,22 +23,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.7163402"
-     inkscape:cx="633.77708"
-     inkscape:cy="1268.9501"
+     inkscape:zoom="0.21750283"
+     inkscape:cx="-163.21627"
+     inkscape:cy="1190.7891"
      inkscape:window-width="1920"
      inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     showguides="true">
-    <sodipodi:guide
-       position="192.34353,307.07078"
-       orientation="0,-1"
-       id="guide38"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
+     showguides="true" />
   <defs
      id="defs1">
     <clipPath
@@ -105,6 +99,70 @@
          id="path10600"
          inkscape:connector-curvature="0" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20-5">
+      <path
+         d="M 300.48,264.719 H 541.425 V 23.774 H 300.48 Z"
+         id="path18-6"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath30-2">
+      <path
+         d="M 300,24 H 542 V 266 H 300 Z"
+         id="path28-9"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10592-1">
+      <path
+         d="M 19.844,859.012 H 260.789 V 618.067 H 19.844 Z"
+         id="path10590-2"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10602-7">
+      <path
+         d="M 19,618 H 261 V 860 H 19 Z"
+         id="path10600-0"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath58-9">
+      <path
+         d="M 300.711,859.008 H 541.656 V 618.067 H 300.711 Z"
+         id="path56-3"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath68-6">
+      <path
+         d="M 300,618 H 542 V 860 H 300 Z"
+         id="path66-0"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2468-6">
+      <path
+         d="M 580.551,858.719 H 821.496 V 617.774 H 580.551 Z"
+         id="path2466-2"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2478-6">
+      <path
+         d="M 580,618 H 822 V 860 H 580 Z"
+         id="path2476-1"
+         inkscape:connector-curvature="0" />
+    </clipPath>
   </defs>
   <g
      inkscape:label="Camada 1"
@@ -115,7 +173,7 @@
        transform="matrix(0.35277776,0,0,-0.35277776,2.0486654e-7,420.00003)">
       <g
          id="g16"
-         clip-path="url(#clipPath20)">
+         clip-path="url(#clipPath20-5)">
         <g
            id="g22"
            transform="translate(0,-0.44873)">
@@ -123,7 +181,7 @@
              id="g24">
             <g
                id="g26"
-               clip-path="url(#clipPath30)">
+               clip-path="url(#clipPath30-2)">
               <g
                  id="g32">
                 <path
@@ -178,7 +236,7 @@
        transform="matrix(0.35277776,0,0,-0.35277776,2.0486654e-7,420.00003)">
       <g
          id="g54"
-         clip-path="url(#clipPath58)">
+         clip-path="url(#clipPath58-9)">
         <g
            id="g60"
            transform="translate(0,-0.44873)">
@@ -186,7 +244,7 @@
              id="g62">
             <g
                id="g64"
-               clip-path="url(#clipPath68)">
+               clip-path="url(#clipPath68-6)">
               <g
                  id="g70">
                 <path
@@ -5578,7 +5636,7 @@
        transform="matrix(0.35277776,0,0,-0.35277776,2.0486654e-7,420.00003)">
       <g
          id="g2464"
-         clip-path="url(#clipPath2468)">
+         clip-path="url(#clipPath2468-6)">
         <g
            id="g2470"
            transform="translate(0,-0.44873)">
@@ -5586,7 +5644,7 @@
              id="g2472">
             <g
                id="g2474"
-               clip-path="url(#clipPath2478)">
+               clip-path="url(#clipPath2478-6)">
               <g
                  id="g2480">
                 <path
@@ -5659,168 +5717,168 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="20.757452"
+         y="20.757456"
          id="tspan3">Exemplo de desenho interativo com setup() e draw()</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="24.296511"
+         y="24.296518"
          id="tspan4">&quot;&quot;&quot;</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="27.835571"
+         y="27.835583"
          id="tspan5" /><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="31.374676"
+         y="31.374647"
          id="tspan6"><tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan31">def setup(): </tspan> # função executada uma vez no começo</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="34.913734"
+         y="34.913712"
          id="tspan7">    <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan32">size(500, 500)</tspan>   # define área de desenho</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="38.452797"
+         y="38.452774"
          id="tspan8">    <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan33">background(200)</tspan>  # limpa o desenho com fundo cinza</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="41.991856"
+         y="41.99184"
          id="tspan9">    <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan34">stroke_weight(2)</tspan> # ajusta espessura do traço</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="45.530918"
+         y="45.530903"
          id="tspan10">    </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="49.069977"
+         y="49.069965"
          id="tspan11"><tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan35">def draw():</tspan>  # função executada cerca de 60 vezes por segundo</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="52.609035"
+         y="52.609032"
          id="tspan12">    <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan36">if is_mouse_pressed:</tspan>  # se o mouse estiver pressionado</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="56.14814"
+         y="56.148094"
          id="tspan13">        <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan37">casinha(mouse_x, mouse_y, 40)</tspan>  # desenho em x, y do mouse</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="59.68718"
+         y="59.687157"
          id="tspan14" /><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="63.226261"
+         y="63.226223"
          id="tspan15">def casinha(x, y, tamanho):</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="66.76532"
+         y="66.765289"
          id="tspan16">    &quot;&quot;&quot;</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="70.304382"
+         y="70.304352"
          id="tspan17">    Desenhe casinha na posição x, y com largura e altura 'tamanho'</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="73.84346"
+         y="73.843414"
          id="tspan18">    &quot;&quot;&quot;</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="77.382523"
+         y="77.382477"
          id="tspan19">    metade = tamanho / 2</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="80.921585"
+         y="80.921539"
          id="tspan20"><tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan39">    push_matrix()    </tspan># preserva o sistema de coordenadas atual</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="84.460648"
+         y="84.460602"
          id="tspan21">    <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan40">translate(x, y)</tspan>  # translada a origem do sistema de coordenadas</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="87.999725"
+         y="87.999672"
          id="tspan22">    <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan41">begin_shape()</tspan>    # começa desenhar a forma, inicia um polígono</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="91.538788"
+         y="91.538734"
          id="tspan23">    <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan42">vertex(0, -metade)</tspan></tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="95.07785"
+         y="95.077797"
          id="tspan24">    vertex(-metade, 0)</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="98.616928"
+         y="98.616859"
          id="tspan25">    vertex(-metade, metade)</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="102.15599"
+         y="102.15592"
          id="tspan26">    vertex(metade, metade)</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="105.69505"
+         y="105.69499"
          id="tspan27">    vertex(metade, 0)</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="109.23411"
+         y="109.23405"
          id="tspan28"><tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan43">    end_shape(CLOSE) </tspan> # encerra a forma a fechando no 1o vértice</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="112.77319"
+         y="112.77312"
          id="tspan29">    <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan44">pop_matrix() </tspan> # retorna o sistema de coordenadas anterior</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="106.03104"
-         y="116.31225"
+         y="116.31218"
          id="tspan30">    </tspan></text>
     <text
        xml:space="preserve"
@@ -5836,17 +5894,17 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="221.08246"
+         y="221.08247"
          id="tspan123">Desenhando quatro estrelas diferentes.</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="224.62155"
+         y="224.62154"
          id="tspan124">&quot;&quot;&quot;</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="228.16061"
+         y="228.1606"
          id="tspan125">  <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan153">  </tspan></tspan><tspan
@@ -5863,7 +5921,7 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="238.77782"
+         y="238.7778"
          id="tspan128">    stroke_weight(5)</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
@@ -5873,127 +5931,127 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="245.85594"
+         y="245.85593"
          id="tspan130">    estrela(375, 125, 5, 100, 50)</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="249.395"
+         y="249.39499"
          id="tspan131">    estrela(125, 375, 7, 100, 50)</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="252.93407"
+         y="252.93405"
          id="tspan132">    estrela(375, 375, 9, 100, 50)</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="256.47314"
+         y="256.47311"
          id="tspan133" /><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="260.01221"
+         y="260.01218"
          id="tspan134">def estrela(x_centro, y_centro, num_pontas, raio_a, raio_b):</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="263.55127"
+         y="263.55124"
          id="tspan135"><tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan154">  </tspan>  &quot;&quot;&quot;</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="267.09033"
+         y="267.0903"
          id="tspan136">    Desenha uma estrela em x_centro, y_centro com num_pontas</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="270.62939"
+         y="270.62936"
          id="tspan137">    raio_a e raio_b são o raio interno e raio das pontas.</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="274.16846"
+         y="274.16843"
          id="tspan138">    &quot;&quot;&quot;</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="277.70755"
+         y="277.70749"
          id="tspan139">    # Calcula ângulo de incremento entre os vértices</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="281.24661"
+         y="281.24655"
          id="tspan140">  <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan157">  inc = radians(360 / num_pontas) / 2 </tspan></tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="284.78568"
+         y="284.78561"
          id="tspan141"><tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan158">    begin_shape()</tspan>  # começa a desenhar a forma</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="288.32474"
+         y="288.32468"
          id="tspan142">    <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan159">ang = 0</tspan>  # começando com o ângulo 0</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="291.8638"
+         y="291.86374"
          id="tspan143">   <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan160"> while ang &lt; TWO_PI:</tspan></tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="295.40286"
+         y="295.40283"
          id="tspan144">        x = x_centro + sin(ang) * raio_a</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="298.94193"
+         y="298.94189"
          id="tspan145">        y = y_centro + cos(ang) * raio_a</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="302.48102"
+         y="302.48096"
          id="tspan146">        vertex(x, y)</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="306.02005"
+         y="306.02002"
          id="tspan147">        ang += inc</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="309.55914"
+         y="309.55908"
          id="tspan148">        x = x_centro + sin(ang) * raio_b</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="313.09821"
+         y="313.09814"
          id="tspan149">        y = y_centro + cos(ang) * raio_b</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="316.63727"
+         y="316.63721"
          id="tspan150">        vertex(x, y)</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="320.17633"
+         y="320.17627"
          id="tspan151">        ang += inc</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="105.74007"
-         y="323.71539"
+         y="323.71533"
          id="tspan152"><tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan161">    end_shape(CLOSE)</tspan> # encerra uma forma fechada</tspan></text>
@@ -6002,7 +6060,7 @@
        transform="matrix(0.35277776,0,0,-0.35277776,2.0486654e-7,420.00003)">
       <g
          id="g10588"
-         clip-path="url(#clipPath10592)">
+         clip-path="url(#clipPath10592-1)">
         <g
            id="g10594"
            transform="translate(0,-0.44873)">
@@ -6010,7 +6068,7 @@
              id="g10596">
             <g
                id="g10598"
-               clip-path="url(#clipPath10602)">
+               clip-path="url(#clipPath10602-7)">
               <g
                  id="g10604">
                 <path
@@ -6407,17 +6465,17 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="221.42703"
+         y="221.42705"
          id="tspan362">Uma grade com laços encaixados e elementos variados.</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="224.96613"
+         y="224.96611"
          id="tspan363">&quot;&quot;&quot;</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="228.50519"
+         y="228.50517"
          id="tspan364" /><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
@@ -6432,7 +6490,7 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="239.12239"
+         y="239.12238"
          id="tspan367">    <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan401">no_stroke()</tspan>  # desenhar formas sem traço de contorno</tspan><tspan
@@ -6446,128 +6504,128 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="246.20052"
+         y="246.2005"
          id="tspan369">    <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan399">no_loop()   </tspan> # faz o draw() parar depois de um frame</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="249.73958"
+         y="249.73956"
          id="tspan370" /><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="253.27864"
+         y="253.27863"
          id="tspan371">def draw():</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="256.81772"
+         y="256.81769"
          id="tspan372">    <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan398">background(200)</tspan>  # fundo cinza (e limpa o frame)</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="260.35678"
+         y="260.35675"
          id="tspan373">    <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan397">grade(250, 250, 8, width, rnd_circ=True)</tspan></tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="263.89584"
+         y="263.89581"
          id="tspan374">    </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="267.43491"
+         y="267.43488"
          id="tspan375">def grade(x_centro, y_centro, n, tam_total, rnd_circ=False):</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="270.97397"
+         y="270.97394"
          id="tspan376">    <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan395">tam = tam_total / n</tspan></tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="274.51303"
+         y="274.513"
          id="tspan377">    desloc = (tam - tam_total) / 2</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="278.05212"
+         y="278.05206"
          id="tspan378">    for i in range(n):</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="281.59119"
+         y="281.59113"
          id="tspan379">        x = x_centro + desloc + tam * i</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="285.13025"
+         y="285.13019"
          id="tspan380">        for j in range(n):</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="288.66931"
+         y="288.66925"
          id="tspan381">            y =  y_centro + desloc + tam * j</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="292.20837"
+         y="292.20831"
          id="tspan382">            if rnd_circ:</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="295.74744"
+         y="295.74741"
          id="tspan383"><tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan396">    </tspan>            # no Processing random(inicio, final_ni)</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="299.2865"
+         y="299.28647"
          id="tspan384">    <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan394">            circle(x, y, random(tam * 0.1, tam * 0.9))</tspan></tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="302.82559"
+         y="302.82553"
          id="tspan385">            else: </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="306.36462"
+         y="306.36459"
          id="tspan386">                square(x, y, tam * 0.75)</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="309.90372"
+         y="309.90366"
          id="tspan387" /><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="313.44278"
+         y="313.44272"
          id="tspan388"><tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan391">def key_pressed():</tspan>  # no evento de uma tecla ser pressionada</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="316.98184"
+         y="316.98178"
          id="tspan389">    <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan392">save_frame('grade###.png') </tspan>  # salva uma imagem PNG</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.22;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.264583"
          x="6.4443741"
-         y="320.5209"
+         y="320.52084"
          id="tspan390">    <tspan
    style="font-weight:bold;stroke-width:0.264583"
    id="tspan393">redraw() </tspan> # dispara uma nova execução do draw()</tspan></text>
@@ -6600,21 +6658,10 @@
            x="222.89479"
            y="-1134.6089">()</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="67.401619"
-       y="26.016758"
-       id="text1488"><tspan
-         sodipodi:role="line"
-         id="tspan1488"
-         style="stroke-width:0.264583"
-         x="67.401619"
-         y="26.016758" /></text>
     <g
-       id="g2">
+       id="g3">
       <g
-         id="g1">
+         id="g2">
         <path
            d="m 281.45623,221.84423 2.32621,0.28116 v -1.41111 l -2.27647,-0.26458 -0.0109,-0.74966 2.2599,0.26459 v -1.22908 l 0.57326,0.0497 v 1.25659 l 2.1717,0.25365 v -1.38359 l 0.5842,0.0385 v 1.41111 l 2.17205,0.25365 0.0219,0.77188 -2.1717,-0.26459 v 1.39453 l 2.12196,0.2533 0.0113,0.78846 -2.10573,-0.25365 v 1.15746 l -0.59549,-0.0769 v -1.15782 l -2.14947,-0.26458 v 1.25694 l -0.56798,-0.0663 v -1.25659 l -2.31492,-0.27552 z m 2.89383,-1.05269 v 1.39453 l 2.16076,0.27023 v -1.41112 z"
            style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"

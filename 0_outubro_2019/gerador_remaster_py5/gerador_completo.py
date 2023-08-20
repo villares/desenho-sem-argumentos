@@ -6,7 +6,7 @@ https://desenho.lugaralgum.com (para licenças, créditos e agradecimentos!)
 from poster import poster
 from elementos import grade
 
-variante = '_en'   # '_pt' ot '_en'
+variante = '_pt'   # '_pt' ot '_en'
 output_name = 'desenho0_py5{v}-{s}-{t}.pdf'.format
 
 def setup():
