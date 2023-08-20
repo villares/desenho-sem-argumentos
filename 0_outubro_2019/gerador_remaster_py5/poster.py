@@ -51,14 +51,14 @@ def poster(xo, yo, divisoes, dim_total, elemento=None):
         y_olho = random(dim_total / 2, dim_total - w_olho)
         fill(0)
         square(x_olho, y_olho, w_olho)
-        olho(x_olho, y_olho, w_olho * 0.9)
+        olho(x_olho, y_olho, w_olho * 0.9, 100)
 
 def desenha_elemento(x, y, w, seletor):
     """
-    Posicione, ajuste atributos e selecione
+    Posiciona, ajusta atributos e seleciona
     elementos de desenho, invocando as funções
     como definidas no verso do pôster:
-    estrela(), casinha() 
+    estrela() e casinha(), ou não desenha nada. 
     """ 
     stroke(0)
     stroke_weight(0.5)

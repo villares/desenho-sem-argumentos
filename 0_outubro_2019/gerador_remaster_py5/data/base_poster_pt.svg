@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3 (0e150ed, 2023-07-21)"
-   sodipodi:docname="b.svg"
+   sodipodi:docname="base_poster_pt.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,12 +24,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.8530687"
-     inkscape:cx="193.19305"
-     inkscape:cy="270.90199"
-     inkscape:window-width="1636"
-     inkscape:window-height="1016"
-     inkscape:window-x="109"
-     inkscape:window-y="34"
+     inkscape:cx="901.74746"
+     inkscape:cy="228.27"
+     inkscape:window-width="956"
+     inkscape:window-height="1050"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -341,9 +341,9 @@
          x="106.20798"
          y="123.22945"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.198437"
-         id="tspan33080">        olho(x_olho, y_olho, w_olho * .9)  <tspan
+         id="tspan33080">        olho(x_olho, y_olho, w_olho * 0.9, 100)  <tspan
    style="font-weight:normal;stroke-width:0.198437"
-   id="tspan33767"># definido no verso</tspan></tspan></text>
+   id="tspan33767"># def no verso</tspan></tspan></text>
     <text
        id="text2663"
        y="35.21051"
@@ -363,7 +363,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.198437"
          y="42.266068"
          x="204.63298"
-         id="tspan33759">    Posicione, ajuste atributos e desenhe os</tspan><tspan
+         id="tspan33759">    Posiciona, ajusta atributos e seleciona os</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.198437"
          y="45.793846"
          x="204.63298"
