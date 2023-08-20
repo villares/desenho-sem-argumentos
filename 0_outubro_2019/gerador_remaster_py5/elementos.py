@@ -62,28 +62,62 @@ def estrela(x_centro, y_centro, num_pontas, raio_a, raio_b):
     end_shape(CLOSE) # encerra uma forma fechada
     
     
-def olho(x, y, largura, cor=color(100)):
-    """ Olho na posição x, y com largura e cor """
-    push_style() # preserva os atributos gráficos atuais
-    no_stroke()
-    fill(255)
-    ellipse(x, y, largura, largura * .45)
-    fill(cor)
-    circle(x, y, largura * .4)
-    fill(0)
-    circle(x, y, largura * .1)
-    pop_style() # retorna os atributos gráficos anteriores
+"""
+Uma função que desenha olhos. Exportação de PDF.
+"""
+"""
+Uma função que desenha olhos. Exportação de PDF.
+"""
+
+def setup():  # função executada uma vez no começo
+    size(500, 500)   # define área de desenho
+    begin_record(PDF, 'olho.pdf')  # inicia gravação
+    cinza_200 = color(200)   # cria um valor de cor
+    cinza_100 = color(100)  # cria outro valor de cor
+    olho(width / 2, height * 0.25, width * 0.45, cinza_200)
+    olho(width / 2, height * 0.50, width * 0.37, cinza_100)
+    olho(width / 2, height * 0.75, width * 0.30, cinza_200)
+    end_record()  # encerra gravação
     
+def olho(x, y, largura, cor=color(200, 200, 0)):
+    """ Olho na posição x, y com largura e cor."""
+    push_style() # preserva os atributos gráficos atuais
+    no_stroke()  # desenha formas sem traço de contorno
+    fill(255)    # preenchimnto branco
+    ellipse(x, y, largura, largura * 0.45)  # branco do olho
+    fill(cor)    # cor do parâmetro, preenchimento da iris
+    circle(x, y, largura * 0.4)  # desenha a iris
+    fill(0)      # preenchimento preto da pupila
+    circle(x, y, largura * 0.1)   # desenha pupila
+    pop_style() # retorna aos atributos gráficos anteriores
+    
+"""
+Uma grade com laços encaixados e elementos variados.
+"""
+
+# def setup(): 
+#     size(500, 500)
+#     no_stroke()  # desenhar formas sem traço de contorno
+#     fill(0)      # preenchimento preto
+#     no_loop()    # faz o draw() parar depois de um frame
+# 
+# def draw():
+#     background(200)  # fundo cinza (e limpa o frame)
+#     grade(250, 250, 8, width, rnd_circ=True)
     
 def grade(x_centro, y_centro, n, tam_total, rnd_circ=False):
     tam = tam_total / n
-    desloc = (tam - tam_total) / 2.
+    desloc = (tam - tam_total) / 2
     for i in range(n):
         x = x_centro + desloc + tam * i
         for j in range(n):
             y =  y_centro + desloc + tam * j
             if rnd_circ:
                 # no Processing random(inicio, final_ni)
-                circle(x, y, random(tam * .1, tam * .9))
+                circle(x, y, random(tam * 0.1, tam * 0.9))
             else: 
-                square(x, y, tam * .75)
+                square(x, y, tam * 0.75)
+
+def key_pressed():  # no evento de uma tecla ser pressionada
+    save_frame('grade###.png')   # salva uma imagem PNG
+    redraw()  # dispara uma nova execução do draw()
