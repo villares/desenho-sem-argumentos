@@ -1,19 +1,21 @@
 """
-Poster desenho() #0_outubro_2019 versão 20230813
+Poster desenho() #0_outubro_2019 versão 2023-08
 https://desenho.lugaralgum.com (para licenças, créditos e agradecimentos!)
 """
 
 from poster import poster
 from elementos import grade
 
+variante = '_en'   # '_pt' ot '_en'
+output_name = 'desenho0_py5{v}-{s}-{t}.pdf'.format
+
 def setup():
     global frente, verso, semente, tiragem, f
     size(1122, 1587)
     no_loop()
-    
-    
-    frente = load_shape('base_frente.svg')
-    verso = load_shape('base_poster_en.svg')
+        
+    frente = load_shape(f'base_frente{variante}.svg')
+    verso = load_shape(f'base_poster{variante}.svg')
     """
     Aviso de erro quando tentei usar um VLW:
     Use createFont() instead of loadFont() when drawing text using the PDF library.
@@ -33,7 +35,7 @@ def draw():
     (desencane de olhar que fica feio na tela, abra o PDF!)
     """
     global semente
-    pdf = begin_record(PDF, "desenho0-{}-{}.pdf".format(semente, tiragem))
+    pdf = begin_record(PDF, output_name(v=variante, s=semente, t=tiragem))
     
     for i in range(tiragem):
         if tiragem > 1:
