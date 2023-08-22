@@ -1,21 +1,22 @@
 <div style="font-family: inconsolata, monospace; font-size: 0.7em">"""Para desenhar com código, para desenhar junto, com o computador e com outras pessoas!"""</div>
 
 ---
+<h2 style="font-family: inconsolata, monospace;">desenho() #1 outubro de 2022</h2>
 
 ![2022-11-01_11-23](/assets/thumbnail-desenho1.png)
 
-<h2 style="font-family: inconsolata, monospace;">desenho() #1 outubro de 2022</h2>
-
-Esta é a edição do zine/poster que foi distribuída na **Python Brasil 2022 Manaus**!
+Edição distribuída na **Python Brasil 2022 Manaus**!
+Foram impressos inicialmente 200 exemplares do zine/poster com desenhos únicos.
 [Veja os agradecimentos, código, e erratas](1_outubro_2022/README.md)
 
 ---
+<h2 style="font-family: inconsolata, monospace;">desenho() #0 outubro de 2019</h2>
 
 ![gif animado com amostras da publicação](assets/amostra-desenho0.gif)
 
-<h2 style="font-family: inconsolata, monospace;">desenho() #0 outubro de 2019</h2>
-
-A primeira edição, feita para ser distribuída gratuitamente na [Python Brasil 2019 Ribeirão Preto](https://2019.pythonbrasil.org.br/), é uma espécie de zine, fôlder e pôster. Cada exemplar é para ser único, e foram impressos inicialmente 200.
+A primeira edição, feita para ser distribuída gratuitamente na **Python Brasil 2019 Ribeirão Preto**
+Foram impressos inicialmente 200 exemplares do zine/poster com desenhos únicos.
+[Veja os agradecimentos, código, e erratas](0_outubro_2019/README.md)
 
 ---
 <div style="font-family: inconsolata, monospace; font-size: 0.7em">
