@@ -9,21 +9,17 @@ Veja também [Slides da minha apresentação na Python Brasil](https://abav.luga
 Agradecimentos especiais: Décio Otoni de Almeida, Bernardo Fontes, Monica Rizzolli
 
 Contribuiram para a impressão: Adri Patamoma, Advan Shumiski, André Burnier, Bernardo Fontes, Fábio C. Barrionuevo da Luz, Juan Lopes, Lucia Dossin, Monica Rizzolli, Otavio Carneiro, Rodolfo Viana, Thais Viana, Uriá Fassina, Yorik van Havre (primeira leva em ordem alfabética).
-E também: Dann Luciano e Fábio Souza.
+E também: Dann Luciano e Fábio Souza
 
 **[Se quiser fazer uma pequena doação.](https://gumroad.com/l/desenho0)**
 
 ### Sugestões para executar o cógido do pôster
 
-Para executar o [código da edição #0 outubro 2019](https://github.com/villares/desenho-sem-argumentos/tree/master/0_outubro_2019), instale o Processing modo Python ([instruções](https://abav.lugaralgum.com/como-instalar-o-processing-modo-python/)).
+Para executar o código original da edição #0 outubro 2019, instale o Processing modo Python ([instruções](https://abav.lugaralgum.com/como-instalar-o-processing-modo-python/)). O código de cada elemento do zine está em [estudos](https://github.com/villares/desenho-sem-argumentos/blob/master/0_outubro_2019/estudos/), e tem inclusive versões anteriores abandonadas. Usando o [gerador_completo](https://github.com/villares/desenho-sem-argumentos/blob/master/0_outubro_2019/gerador_completo) é possível produzir novas tiragens completas (frente e verso) prontas para imprimir!
 
-O código de cada elemento do zine está em [estudos](https://github.com/villares/desenho-sem-argumentos/blob/master/0_outubro_2019/estudos/), e tem inclusive versões anteriores abandonadas.
+**ATUALIZAÇÂO em 2023**: Fiz uma nova versão com o mesmo resultado visual que pode ser executada usando [py5](https://py5coding.org) disponível em [gerador_completo_py5](https://github.com/villares/desenho-sem-argumentos/tree/main/0_outubro_2019/gerador_remaster_py5)
 
-Para gerar apenas a imagem do pôster no verso, execute o código em [poster_r5](https://github.com/villares/desenho-sem-argumentos/tree/master/0_outubro_2019/estudos/poster_r5). O resultado foi depois combinado com a [base_verso.svg](https://github.com/villares/desenho-sem-argumentos/blob/master/0_outubro_2019/estudos/base_poster.svg) na produção do zine.
-
-Usando o [gerador_completo](https://github.com/villares/desenho-sem-argumentos/blob/master/0_outubro_2019/gerador_completo) é possível produzir novas tiragens completas (frente e verso) prontas para imprimir!
-
-### ERRAATA/ATUALIZAÇÃO
+### ERRATA/ATUALIZAÇÃO
 
 No código dos pôsters impressos encontrei alguns erros de indentação confira o código do gerador neste repositório que está OK... minhas desculpas. 
 
