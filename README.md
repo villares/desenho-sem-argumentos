@@ -1,7 +1,7 @@
 <div style="font-family: inconsolat bold, monospace; font-size: 0.7em">"""Para desenhar com código, para desenhar junto, com o computador e com outras pessoas!"""</div>
 
 ---
-<h2 style="font-family: inconsolata bold, monospace;">desenho() #1 outubro de 2022</h2>
+## #1 outubro de 2022
 
 ![2022-11-01_11-23](/assets/thumbnail-desenho1.png)
 
@@ -11,7 +11,8 @@ Foram impressos inicialmente 100 exemplares do zine/poster com desenhos únicos.
 [Veja os agradecimentos, código, e erratas](1_outubro_2022/README.md)
 
 ---
-<h2 style="font-family: inconsolata bold, monospace;">desenho() #0 outubro de 2019</h2>
+
+## #0 outubro de 2019
 
 ![gif animado com amostras da publicação](assets/amostra-desenho0.gif)
 
