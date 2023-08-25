@@ -20,7 +20,7 @@ A primeira edição, feita para ser distribuída gratuitamente na **Python Brasi
 - [Saiba mais, veja os agradecimentos, código, e erratas.](0_outubro_2019/README.md)
 
 ---
-<div style="font-family: inconsolata bold, monospace; font-size: 0.7em">
+<div style="font-family: Inconsolata, monospace; font-size: 0.7em">
 <b>desenho()</b> # publicação independente de desenho e programação<br>
 """<br>
 Copyright (C) 2019-2023 <a href="https://abav.lugaralgum.com">Alexandre B A Villares</a>.<br> 
