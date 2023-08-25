@@ -5,10 +5,9 @@
 
 ![2022-11-01_11-23](/assets/thumbnail-desenho1.png)
 
-Edição distribuída na **Python Brasil 2022 Manaus**!
-Foram impressos inicialmente 100 exemplares do zine/poster com desenhos únicos.
-[Faça uma pequena doação e baixa uma amostra](https://villares.gumroad.com/l/desenho1)
-[Veja os agradecimentos, código, e erratas](1_outubro_2022/README.md)
+Edição distribuída na **Python Brasil 2022 Manaus**! Foram impressos inicialmente 100 exemplares do zine/poster com desenhos únicos.
+- [Faça uma pequena doação, baixe uma amostra e o código, ou peça um exemplare pelo correio.](https://villares.gumroad.com/l/desenho1)
+- [Veja os agradecimentos, código, e erratas](1_outubro_2022/README.md)
 
 ---
 
@@ -16,10 +15,9 @@ Foram impressos inicialmente 100 exemplares do zine/poster com desenhos únicos.
 
 ![gif animado com amostras da publicação](assets/amostra-desenho0.gif)
 
-A primeira edição, feita para ser distribuída gratuitamente na **Python Brasil 2019 Ribeirão Preto**
-Foram impressos inicialmente 200 exemplares do zine/poster com desenhos únicos.
-[Faça uma pequena doação e baixa uma amostra](https://villares.gumroad.com/l/desenho0)
-[Veja os agradecimentos, código, e erratas](0_outubro_2019/README.md)
+A primeira edição, feita para ser distribuída gratuitamente na **Python Brasil 2019 Ribeirão Preto**. Foram impressos inicialmente 200 exemplares do zine/poster com desenhos únicos.
+- [Faça uma pequena doação, baixe uma amostra e o código, ou peça um exemplar pelo correio.](https://villares.gumroad.com/l/desenho0)
+- [Veja os agradecimentos, código, e erratas](0_outubro_2019/README.md)
 
 ---
 <div style="font-family: inconsolata, monospace; font-size: 0.7em">
