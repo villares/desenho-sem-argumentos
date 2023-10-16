@@ -2,7 +2,7 @@
 
 ---
 
-![2022-11-01_11-23](/assets/thumbnail-desenho1.png)
+![2022-11-01_11-23](assets/thumbnail-desenho1.png)
 
 <h2 style="font-family: inconsolata, monospace;">desenho() #1 outubro de 2022</h2>
 
@@ -18,6 +18,7 @@ Esta é a edição do zine/poster que foi distribuída na **Python Brasil 2022 M
 A primeira edição, feita para ser distribuída gratuitamente na [Python Brasil 2019 Ribeirão Preto](https://2019.pythonbrasil.org.br/), é uma espécie de zine, fôlder e pôster. Cada exemplar é para ser único, e foram impressos inicialmente 200.
 
 ---
+
 <div style="font-family: inconsolata, monospace; font-size: 0.7em">
 <b>desenho()</b> # publicação independente de desenho e programação<br>
 """<br>
