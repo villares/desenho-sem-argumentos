@@ -15,14 +15,14 @@ def setup():
     global verso, tiragem, frente
     size(1122, 1587)
     generate(20220000)
-    tiragem = 50
+    tiragem = 1
     f = createFont('Inconsolata Bold', 10)  # precisa ter Inconsolata Bold instalada
     noLoop()
-    verso = loadShape('base_poster.svg')
-    frente = loadShape('base_frente.svg')
+    verso = loadShape('base_poster_en.svg')
+    frente = loadShape('base_frente_en.svg')
 
 def draw():
-    pdf = createGraphics(int(width * 0.75), int(height * 0.75), PDF, "desenho0-{}-{}.pdf".format(rnd_seed, tiragem))
+    pdf = createGraphics(int(width * 0.75), int(height * 0.75), PDF, "desenho1_en-{}-{}.pdf".format(rnd_seed, tiragem))
     beginRecord(pdf)
     noFill()
     for i in range(tiragem):
