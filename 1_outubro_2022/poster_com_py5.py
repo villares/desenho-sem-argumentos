@@ -1,4 +1,4 @@
-# instale a biblioteca py5 (py5coding.org)
+# See how to install py5 at https://py5coding.org
 
 import py5
 import random  # sample, shuffle, seed
@@ -10,13 +10,13 @@ EVN_NBS = ((0, 1), (0, -1), (-1, 0), (1, 0), (-1, -1), (1, -1))
 ODD_NBS = ((0, 1), (0, -1), (-1, 0), (1, 0), (-1,  1), (1,  1))
 
 W = 25
-H = W * py5.sqrt(3) / 2  # sin(radians(60))
+H = W * py5.sqrt(3) / 2  # sin (radians(60))
 OX, OY = W / 2, H / 2  # deslocamento (offset)
 
 def setup():
     py5.size(1122, 1122)
     py5.no_fill()
-    generate(2022) 
+    generate(2022) # random seed here
 
 def draw():
     py5.background(240)
