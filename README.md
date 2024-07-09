@@ -1,4 +1,6 @@
-<div style="font-family: inconsolat bold, monospace; font-size: 0.7em">"""Para desenhar com código, para desenhar junto, com o computador e com outras pessoas!"""</div>
+<div style="font-family: inconsolat bold, monospace; font-size: 0.7em">"""Para desenhar com código, para desenhar junto, com o computador e com outras pessoas!"""
+<br><sub><em>desenho() means drawing() in Portuguese. """To draw with code, to draw together, with the computer and with other peope!""</em></sub>  
+</div>
 
 ---
 ## #1 outubro de 2022
