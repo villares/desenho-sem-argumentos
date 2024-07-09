@@ -7,7 +7,7 @@
 
 ![2022-11-01_11-23](/assets/thumbnail-desenho1.png)
 
-*Distributed at **Python Brasil 2022 Manaud**, initially 100 prints with unique poster designs*
+*Distributed at **Python Brasil 2022 Manaus**, initially 100 prints with unique poster designs*
 - *[Make a small donation, download a sample and the code, or order a copy by mail.](https://villares.gumroad.com/l/desenho1)*
 
 Edição distribuída na **Python Brasil 2022 Manaus**, inicialmente 100 exemplares de zine/poster com pôsteres únicos.
@@ -19,6 +19,9 @@ Edição distribuída na **Python Brasil 2022 Manaus**, inicialmente 100 exempla
 ## #0 outubro de 2019
 
 ![gif animado com amostras da publicação](assets/amostra-desenho0.gif)
+
+*The first edition, distributed at **Python Brasil 2019 Ribeirão Preoto**, initially 200 prints with unique poster designs*
+- *[Make a small donation, download a sample and the code, or order a copy by mail.](https://villares.gumroad.com/l/desenho0)*
 
 A primeira edição, feita para ser distribuída gratuitamente na **Python Brasil 2019 Ribeirão Preto**. Foram impressos inicialmente 200 exemplares do zine/poster com desenhos únicos.
 - [Faça uma pequena doação, baixe uma amostra e o código, ou peça um exemplar pelo correio.](https://villares.gumroad.com/l/desenho0)
