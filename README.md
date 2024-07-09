@@ -5,8 +5,11 @@
 
 ![2022-11-01_11-23](/assets/thumbnail-desenho1.png)
 
-Edição distribuída na **Python Brasil 2022 Manaus**! Foram impressos inicialmente 100 exemplares do zine/poster com desenhos únicos.
-- [Faça uma pequena doação, baixe uma amostra e o código, ou peça um exemplare pelo correio.](https://villares.gumroad.com/l/desenho1)
+*Distributed at **Python Brasil 2022 Manaud**, initially 100 prints with unique poster designs*
+- *[Make a small donation, download a sample and the code, or order a copy by mail.](https://villares.gumroad.com/l/desenho1)*
+
+Edição distribuída na **Python Brasil 2022 Manaus**, inicialmente 100 exemplares de zine/poster com pôsteres únicos.
+- [Faça uma pequena doação, baixe uma amostra e o código, ou peça um exemplar pelo correio.](https://villares.gumroad.com/l/desenho1)
 - [Saiba mais, veja os agradecimentos, código, e erratas.](1_outubro_2022/README.md)
 
 ---
