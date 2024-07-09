@@ -1,5 +1,5 @@
 <div style="font-family: inconsolat bold, monospace; font-size: 0.7em">"""Para desenhar com código, para desenhar junto, com o computador e com outras pessoas!"""
-<br><sub><em>desenho() means drawing() in Portuguese. """To draw with code, to draw together, with the computer and with other peope!""</em></sub>  
+<br><sub><em>desenho() means drawing() in Portuguese. """To draw with code, to draw together, with the computer and with other people!""</em></sub>  
 </div>
 
 ---
@@ -29,7 +29,8 @@ A primeira edição, feita para ser distribuída gratuitamente na **Python Brasi
 
 ---
 <div style="font-family: Inconsolata, monospace; font-size: 0.7em">
-<b>desenho()</b> # publicação independente de desenho e programação<br>
+<b>desenho()</b> # publicação independente de desenho e programação / an independent publication on drawing and coding<br>
+  
 """<br>
 Copyright (C) 2019-2023 <a href="https://abav.lugaralgum.com">Alexandre B A Villares</a>.<br> 
 Texto e imagens: Licença Atribuição-NãoComercial-CompartilhaIgual 4.0 (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR">CC BY-NC-SA 4.0</a>).<br>Código: Licença Pública Geral GNU (<a ref="https://github.com/villares/desenho-sem-argumentos/blob/master/LICENSE.txt">GPL v3.0</a>)
